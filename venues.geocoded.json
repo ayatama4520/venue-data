@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:05:02.977Z",
+  "generated_at": "2026-07-30T04:14:48.738Z",
   "source": "Nominatim (OpenStreetMap)",
   "venues": [
     {
@@ -1210,6 +1210,807 @@
         }
       ],
       "geocode_precision": "venue_name"
+    },
+    {
+      "name": "CLUB SEATA",
+      "name_en": "CLUB SEATA",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-20-3 吉祥寺パーキングプラザB1F",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ヒップホップ・テクノ・エレクトロニック・クラブ",
+      "source_url": "https://seata.jp/",
+      "events": [
+        {
+          "title": "REMIX vol.17",
+          "date": "2026-07-02",
+          "performers": [
+            "ジェニュインザアイドル",
+            "BLACK SNOW",
+            "NoirAven"
+          ],
+          "is_real": true,
+          "source_url": "https://seata.jp/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://seata.jp/schedule/"
+        },
+        {
+          "title": "여기여기 (YogiYogi)vol.34",
+          "date": "2026-07-03",
+          "performers": [
+            "TRATRA",
+            "『I'z』",
+            "MELT THE BULLET"
+          ],
+          "is_real": true,
+          "source_url": "https://seata.jp/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://seata.jp/schedule/"
+        },
+        {
+          "title": "ForeProduction Tour 2026",
+          "date": "2026-07-28",
+          "performers": [
+            "First Fl∞r",
+            "STRAY DOGS",
+            "WAAARZ"
+          ],
+          "is_real": true,
+          "source_url": "https://seata.jp/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://seata.jp/schedule/"
+        },
+        {
+          "title": "SEX冠TOUR2026",
+          "date": "2026-07-31",
+          "performers": [
+            "THE冠",
+            "SEX MACHINEGUNS",
+            "GARLICBOYS"
+          ],
+          "is_real": true,
+          "source_url": "https://seata.jp/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://seata.jp/schedule/"
+        },
+        {
+          "title": "G.D.FLICKERS 2026 ONEMAN 夏",
+          "date": "2026-08-08",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://seata.jp/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://seata.jp/schedule/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "ROCK JOINT GB",
+      "name_en": "ROCK JOINT GB",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺本町2-13-14 B1",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ロック・ポップス・バンド・ライブ",
+      "source_url": "https://www.rjgb.tokyo/",
+      "events": [
+        {
+          "title": "G.D.FLICKERS 2026 ONEMAN 夏",
+          "date": "2026-08-08",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://www.rjgb.tokyo/schedule",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://www.rjgb.tokyo/schedule"
+        },
+        {
+          "title": "CIGARS SODA 祝★デビュー『CIGARS•SODA 2026』",
+          "date": "2026-08-09",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://www.rjgb.tokyo/schedule",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://www.rjgb.tokyo/schedule"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Kichijoji WARP",
+      "name_en": "Kichijoji WARP",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-30-10",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ロック・バンド・ライブ・クラブ・DJ",
+      "source_url": "http://warp.rinky.info/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "SILVER ELEPHANT",
+      "name_en": "SILVER ELEPHANT",
+      "address": "〒180-0004 武蔵野市吉祥寺本町2-10-6-B1",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ロック・ポップス・フォーク・プログレッシブロック・ライブ",
+      "source_url": "https://www.silver-elephant.com/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "STAR PINE'S CAFE",
+      "name_en": "STAR PINE'S CAFE",
+      "address": "〒180-0004 武蔵野市吉祥寺本町1-20-16 B1",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ヒップホップ・ライブ・R&B・ジャズ・ラウンジ",
+      "source_url": "https://mandala.gr.jp/SPC/",
+      "events": [
+        {
+          "title": "マリアンヌ東雲『マリアンヌと男たち』",
+          "date": "2026-07-31",
+          "performers": [
+            "マリアンヌ東雲"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/SPC/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://mandala.gr.jp/SPC/schedule/"
+        },
+        {
+          "title": "TOKI SHIMIZU THE LIFE PARTY TOKYO",
+          "date": "2026-08-02",
+          "performers": [
+            "清水時生"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/SPC/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://mandala.gr.jp/SPC/schedule/"
+        },
+        {
+          "title": "近藤研二 アルバム『Life Swing』発売＆還暦記念ライブ",
+          "date": "2026-08-03",
+          "performers": [
+            "近藤研二"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/SPC/schedule/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://mandala.gr.jp/SPC/schedule/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "CRESCENDO",
+      "name_en": "CRESCENDO",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺東町1-25-24 サンパレス東町B1F",
+      "address_en": null,
+      "lat": 35.7088234,
+      "lng": 139.586782,
+      "genre": "ロック・メタル・ハードロック・ハードコア・インディーズ",
+      "source_url": "https://kichicre.thebase.in/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Planet K",
+      "name_en": "Planet K",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-10-4 古城会館ビル B1F",
+      "address_en": null,
+      "lat": 35.7043267,
+      "lng": 139.5775409,
+      "genre": "ロック・ポップス・バンド・ライブ・インディーズ",
+      "source_url": "https://inter-planets.net/",
+      "events": [
+        {
+          "title": "笠原弘子ライブ ネコプリズム2周年",
+          "date": "2026-07-04",
+          "performers": [
+            "笠原弘子"
+          ],
+          "is_real": true,
+          "source_url": "https://eplus.jp/sf/venue/1800080/events",
+          "open_time": "12:00",
+          "start_time": "12:30",
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://eplus.jp/sf/venue/1800080/events"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Black & Blue",
+      "name_en": "Black & Blue",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-24-5 3F",
+      "address_en": null,
+      "lat": 35.7584511,
+      "lng": 139.5298258,
+      "genre": "ロック・ポップス・バンド・ライブ・DJ",
+      "source_url": "http://blackandblue.tokyo/",
+      "events": [],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "KICHIJOJI SHUFFLE",
+      "name_en": "KICHIJOJI SHUFFLE",
+      "address": "〒180-0004 東京都武蔵野市吉祥寺南町2-6-10 フジパームビル B1F",
+      "address_en": null,
+      "lat": 35.6996526,
+      "lng": 139.5852469,
+      "genre": "ロック・ポップス・バンド・ライブ・インディーズ・エレクトロニック",
+      "source_url": "http://k-shuffle.com/",
+      "events": [
+        {
+          "title": "KING RYO ONEMAN LIVE 完全なる共鳴 ENCORE",
+          "date": "2026-07-23",
+          "performers": [
+            "KING RYO"
+          ],
+          "is_real": true,
+          "source_url": "http://k-shuffle.com/sched",
+          "open_time": null,
+          "start_time": "21:00",
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "http://k-shuffle.com/sched"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "曼荼羅",
+      "name_en": "Mandala",
+      "address": "〒180-0003 東京都武蔵野市吉祥寺南町1-5-2",
+      "address_en": null,
+      "lat": 35.6996526,
+      "lng": 139.5852469,
+      "genre": "ロック・ポップス・ジャズ・フォーク・バンド・ライブ・ラウンジ",
+      "source_url": "https://www.mandala-1.com/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "NEPO",
+      "name_en": "NEPO",
+      "address": "〒181-0013 東京都三鷹市下連雀1-17-4 GRATO井の頭公園 B1",
+      "address_en": null,
+      "lat": 35.6964799,
+      "lng": 139.565496,
+      "genre": "ロック・ポップス・バンド・ライブ・インディーズ・エレクトロニック・ジャズ",
+      "source_url": "https://nepo.co.jp/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "JIROKICHI",
+      "name_en": "JIROKICHI",
+      "address": "〒166-0002 東京都杉並区高円寺北2-3-4 高円寺ビルB1",
+      "address_en": null,
+      "lat": 35.705703,
+      "lng": 139.6513843,
+      "genre": "ジャズ・ロック・ブルース・ライブ",
+      "source_url": "https://jirokichi.net/",
+      "events": [
+        {
+          "title": "Daisuke Takahashi Group",
+          "date": "2026-07-02",
+          "performers": [
+            "Daisuke Takahashi Group"
+          ],
+          "is_real": true,
+          "source_url": "https://jirokichi.net/live-schedule/",
+          "open_time": "18:30",
+          "start_time": "19:30",
+          "price_advance": "¥3,500",
+          "price_door": "¥4,000",
+          "price_note": null,
+          "detail_page_url": "https://jirokichi.net/live-schedule/"
+        },
+        {
+          "title": "Aika Ono New Album \"Dream Journey\" Release Show",
+          "date": "2026-07-04",
+          "performers": [
+            "Aika Ono"
+          ],
+          "is_real": true,
+          "source_url": "https://jirokichi.net/live-schedule/",
+          "open_time": "18:30",
+          "start_time": "19:30",
+          "price_advance": "¥3,500",
+          "price_door": "¥4,000",
+          "price_note": null,
+          "detail_page_url": "https://jirokichi.net/live-schedule/"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "MOONSTOMP",
+      "name_en": "MOON STOMP",
+      "address": "〒166-0002 東京都杉並区高円寺北2-22-6 キャニオンプラザ大須賀 B103",
+      "address_en": null,
+      "lat": 35.7073164,
+      "lng": 139.6548546,
+      "genre": "ジャズ・ワールドミュージック・ブルース・ラテン・ラウンジ",
+      "source_url": "https://bighitcompany.com/moonstomp/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Club ROOTS",
+      "name_en": "Club ROOTS!",
+      "address": "〒166-0002 東京都杉並区高円寺北3-22-3 群星館B1F",
+      "address_en": null,
+      "lat": 35.7073164,
+      "lng": 139.6548546,
+      "genre": "ロック・ポップス・バンド・ライブ・インディーズ",
+      "source_url": "http://www.muribushi.jp/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "DJ'S BAR CAVE",
+      "name_en": "DJ'S BAR CAVE",
+      "address": "〒166-0003 東京都杉並区高円寺南4-23-5 ACPビルB1",
+      "address_en": null,
+      "lat": 35.7000231,
+      "lng": 139.6549094,
+      "genre": "テクノ・ハウス・トランス・エレクトロニック・DJ・クラブ",
+      "source_url": "https://www.djsbarcave.tokyo/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "高円寺HIGH",
+      "name_en": "KOENJI HIGH",
+      "address": "〒166-0003 東京都杉並区高円寺南4-30-1",
+      "address_en": null,
+      "lat": 35.7035896,
+      "lng": 139.6510669,
+      "genre": "ロック・ポップス・インディーズ・ライブ",
+      "source_url": "http://koenji-high.com/",
+      "events": [],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "東高円寺二万電圧",
+      "name_en": "20000V",
+      "address": "〒166-0003 東京都杉並区高円寺南1-7-23 L-GRAZIA東高円寺 B-1",
+      "address_en": null,
+      "lat": 35.6984797,
+      "lng": 139.6581967,
+      "genre": "ロック・ポップス・インディーズ・ライブ",
+      "source_url": "https://den-atsu.com/",
+      "events": [],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "LOFTX Koenji",
+      "name_en": "LOFTX Koenji",
+      "address": "〒166-0011 東京都杉並区梅里2-9-11 小池ビルB1",
+      "address_en": null,
+      "lat": 35.6969116,
+      "lng": 139.6457468,
+      "genre": "ロック・ポップス・インディーズ・ライブ・バンド",
+      "source_url": "http://loft-prj.co.jp/LOFTX/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Show Boat",
+      "name_en": "Show Boat",
+      "address": "〒166-0002 東京都杉並区高円寺北3-17-2 オークヒル高円寺B1",
+      "address_en": null,
+      "lat": 35.7073164,
+      "lng": 139.6548546,
+      "genre": "ロック・ポップス・ジャズ・ライブ",
+      "source_url": "https://www.showboat1993.com/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "十話音",
+      "name_en": "Towa-On",
+      "address": "〒166-0002 東京都杉並区高円寺北3-2-15 B1",
+      "address_en": null,
+      "lat": 35.7073164,
+      "lng": 139.6548546,
+      "genre": "ジャズ・ラウンジ",
+      "source_url": "https://toi-own.com",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "DJ Bar Irie",
+      "name_en": "DJ Bar Irie",
+      "address": "〒166-0003 東京都杉並区高円寺南3-58-15",
+      "address_en": null,
+      "lat": 35.7000231,
+      "lng": 139.6549094,
+      "genre": "ヒップホップ・R&B・ソウル・DJ",
+      "source_url": "https://koenji-depart.com/shop_info/irie/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "新宿club SCIENCE",
+      "name_en": "Shinjuku club SCIENCE",
+      "address": "〒160-0021 東京都新宿区歌舞伎町2-25-6 永和第6ビル B1F",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ロック・パンク・インディーズ・エレクトロニック",
+      "source_url": "https://club-science.com/",
+      "events": [
+        {
+          "title": "AdFicTioN SEIRA Birthday Live",
+          "date": "2026-07-31",
+          "performers": [
+            "AdFicTioN SEIRA"
+          ],
+          "is_real": true,
+          "source_url": "https://club-science.com/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://club-science.com/"
+        },
+        {
+          "title": "KABUKI META FES (メタルロックフェスティバル)",
+          "date": "2026-07-18",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://club-science.com/",
+          "open_time": "12:00",
+          "start_time": "12:30",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,500",
+          "price_note": "16バンド出演",
+          "detail_page_url": "https://club-science.com/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "ゴールデンエッグ",
+      "name_en": "Golden Egg",
+      "address": "〒160-0008 東京都新宿区歌舞伎町1-16-10 第27東京ビル B2F",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ロック・ジャズ・ファンク・ソウル",
+      "source_url": "https://g-egg.info/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "新宿motion",
+      "name_en": "Shinjuku Motion",
+      "address": "〒160-0021 東京都新宿区歌舞伎町2-45-2 ジャストビル5F",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ロック・インディーズ・バンド",
+      "source_url": "https://www.shinjyuku-motion.jp/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "新宿ACE",
+      "name_en": "Shinjuku ACE",
+      "address": "〒160-0021 東京都新宿区歌舞伎町2-45-4 与三郎ビル3階",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ロック・インディーズ・バンド・ライブ",
+      "source_url": "https://npro.city/live-house/",
+      "events": [],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Zepp Shinjuku (TOKYO)",
+      "name_en": "Zepp Shinjuku (TOKYO)",
+      "address": "〒160-0021 東京都新宿区歌舞伎町1-29-1 東急歌舞伎町タワー B1～4F",
+      "address_en": null,
+      "lat": 35.6955754,
+      "lng": 139.7007704,
+      "genre": "ロック・ポップス・J-POP・ライブ",
+      "source_url": "https://www.zepp.co.jp/hall/shinjuku/",
+      "events": [
+        {
+          "title": "愛内里菜 / +垣内倶楽部(band)",
+          "date": "2026-07-30",
+          "performers": [
+            "愛内里菜"
+          ],
+          "is_real": true,
+          "source_url": "https://www.zepp.co.jp/hall/shinjuku/",
+          "open_time": null,
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": "チケット価格: ¥3,500-¥6,500",
+          "detail_page_url": "https://www.zepp.co.jp/hall/shinjuku/"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "新宿PIT INN",
+      "name_en": "Shinjuku PIT INN",
+      "address": "〒160-0022 東京都新宿区新宿2-12-4 アコード新宿 B1F",
+      "address_en": null,
+      "lat": 35.6903709,
+      "lng": 139.6997378,
+      "genre": "ジャズ",
+      "source_url": "http://pit-inn.com/",
+      "events": [
+        {
+          "title": "渋さ知らズ オーケストラ",
+          "date": "2026-08-01",
+          "performers": [
+            "渋さ知らズ オーケストラ"
+          ],
+          "is_real": true,
+          "source_url": "http://pit-inn.com/",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,400",
+          "price_note": "1ドリンク付",
+          "detail_page_url": "http://pit-inn.com/"
+        },
+        {
+          "title": "古谷 淳 スペシャルセッション",
+          "date": "2026-08-02",
+          "performers": [
+            "古谷 淳"
+          ],
+          "is_real": true,
+          "source_url": "http://pit-inn.com/",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_advance": "¥3,500",
+          "price_door": "¥3,850",
+          "price_note": "1ドリンク付",
+          "detail_page_url": "http://pit-inn.com/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Black Sun Jazz Club",
+      "name_en": "Black Sun Jazz Club",
+      "address": "〒160-0021 東京都新宿区歌舞伎町1-10-5 えびす会館 4F",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ジャズ",
+      "source_url": "http://blacksun.jazznet.jp/",
+      "events": [
+        {
+          "title": "フクちゃんと遊ぼう (福岡敏行 Guitar Solo)",
+          "date": "2026-08-21",
+          "performers": [
+            "福岡敏行"
+          ],
+          "is_real": true,
+          "source_url": "http://blacksun.jazznet.jp/",
+          "open_time": null,
+          "start_time": "19:00",
+          "price_advance": null,
+          "price_door": null,
+          "price_note": "ドネーション制（毎月第3金曜日開催）",
+          "detail_page_url": "http://blacksun.jazznet.jp/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Jazz Cafe Bar DUG",
+      "name_en": "Jazz Cafe Bar DUG",
+      "address": "〒160-0022 東京都新宿区新宿3-15-12",
+      "address_en": null,
+      "lat": 35.6928536,
+      "lng": 139.7035439,
+      "genre": "ジャズ",
+      "source_url": "http://www.dug.co.jp/",
+      "events": [],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "THEATER MILANO-Za",
+      "name_en": "THEATER MILANO-Za",
+      "address": "〒160-0021 東京都新宿区歌舞伎町1-29-1 東急歌舞伎町タワー 6F",
+      "address_en": null,
+      "lat": 35.6957894,
+      "lng": 139.7005646,
+      "genre": "ロック・ポップス・ライブ・演劇",
+      "source_url": "https://milano-za.jp/",
+      "events": [],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "DJ BAR Bridge Shinjuku",
+      "name_en": "DJ BAR Bridge Shinjuku",
+      "address": "〒160-0022 東京都新宿区新宿2-19-9 角ビル B1F",
+      "address_en": null,
+      "lat": 35.6903709,
+      "lng": 139.6997378,
+      "genre": "ハウス・テクノ・エレクトロニック・DJ",
+      "source_url": "https://djbar-bridge.com/shinjuku/",
+      "events": [
+        {
+          "title": "DJ Night (CMT, MOYO, SKNHDZ)",
+          "date": "2026-07-29",
+          "performers": [
+            "CMT",
+            "MOYO",
+            "SKNHDZ"
+          ],
+          "is_real": true,
+          "source_url": "https://djbar-bridge.com/shinjuku/",
+          "open_time": "21:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://djbar-bridge.com/shinjuku/"
+        },
+        {
+          "title": "DJ Night (SHOWHEY, JUJUMARU, shochan)",
+          "date": "2026-07-30",
+          "performers": [
+            "SHOWHEY",
+            "JUJUMARU",
+            "shochan"
+          ],
+          "is_real": true,
+          "source_url": "https://djbar-bridge.com/shinjuku/",
+          "open_time": "21:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://djbar-bridge.com/shinjuku/"
+        },
+        {
+          "title": "DJ Night (Jon Sa Trinxa & Others)",
+          "date": "2026-07-31",
+          "performers": [
+            "Jon Sa Trinxa",
+            "DJ KENTA",
+            "WINEY",
+            "AZTHA"
+          ],
+          "is_real": true,
+          "source_url": "https://djbar-bridge.com/shinjuku/",
+          "open_time": "21:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": "Jon Sa Trinxa 4年連続出演",
+          "detail_page_url": "https://djbar-bridge.com/shinjuku/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Music Bar ROCKAHOLIC",
+      "name_en": "Music Bar ROCKAHOLIC",
+      "address": "〒160-0021 東京都新宿区歌舞伎町2-38-3 stella.k B1F",
+      "address_en": null,
+      "lat": 35.6945429,
+      "lng": 139.7027105,
+      "genre": "ロック・バンド・インディーズ",
+      "source_url": "https://bar-rockaholic.jp/shinjuku/",
+      "events": [
+        {
+          "title": "BISTRO ROCKAHOLIC vol.43",
+          "date": "2026-07-31",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://bar-rockaholic.jp/shinjuku/",
+          "open_time": "19:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://bar-rockaholic.jp/shinjuku/"
+        },
+        {
+          "title": "禁忌-taboo- Vol.17 (キズ アルバムリリース記念)",
+          "date": "2026-08-01",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://bar-rockaholic.jp/shinjuku/",
+          "open_time": "19:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://bar-rockaholic.jp/shinjuku/"
+        },
+        {
+          "title": "ELECTRO LOUD ATTACK Vol.14 (ELECTRIC CALLBOY)",
+          "date": "2026-08-08",
+          "performers": [
+            "ELECTRIC CALLBOY"
+          ],
+          "is_real": true,
+          "source_url": "https://bar-rockaholic.jp/shinjuku/",
+          "open_time": "19:00",
+          "start_time": null,
+          "price_advance": null,
+          "price_door": null,
+          "price_note": null,
+          "detail_page_url": "https://bar-rockaholic.jp/shinjuku/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "DJ BAR Heart",
+      "name_en": "DJ BAR Heart",
+      "address": "〒160-0022 東京都新宿区新宿2-19-9 角ビル B1F",
+      "address_en": null,
+      "lat": 35.6903709,
+      "lng": 139.6997378,
+      "genre": "DJ・ハウス・テクノ・ディスコ・ヒップホップ",
+      "source_url": "https://heart-tokyo.com/",
+      "events": [],
+      "geocode_precision": "town_level_address"
     }
   ]
 }
