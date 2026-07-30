@@ -1,0 +1,1215 @@
+{
+  "generated_at": "2026-07-28T14:05:02.977Z",
+  "source": "Nominatim (OpenStreetMap)",
+  "venues": [
+    {
+      "name": "渋谷CLUB QUATTRO",
+      "name_en": "Shibuya CLUB QUATTRO",
+      "address": "〒150-0042 東京都渋谷区宇田川町32-13 4F",
+      "address_en": "4F, 32-13 Udagawa-cho, Shibuya-ku, Tokyo 150-0042",
+      "lat": 35.6620752,
+      "lng": 139.6974957,
+      "genre": "ロック・ポップス",
+      "source_url": "https://www.club-quattro.com/shibuya/",
+      "events": [
+        {
+          "title": "ユダ様20周年記念特別興行「JUDA FEST」",
+          "date": "2026-07-01",
+          "performers": [
+            "流血ブリザード",
+            "SEX MACHINEGUNS",
+            "ガガガSP",
+            "アイリフドーパ"
+          ],
+          "is_real": true,
+          "source_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018163",
+          "open_time": "16:45",
+          "start_time": "17:30",
+          "price_advance": "¥5,800",
+          "price_door": "¥6,300",
+          "price_note": "+ドリンク代¥600",
+          "detail_page_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018163"
+        },
+        {
+          "title": "NEW AGE HEROS",
+          "date": "2026-07-02",
+          "performers": [
+            "NUANCE",
+            "さとりモンスター",
+            "AFTERS"
+          ],
+          "is_real": true,
+          "source_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018485",
+          "open_time": "15:30",
+          "start_time": "16:00",
+          "price_advance": "¥2,900",
+          "price_door": "¥3,600",
+          "price_note": "+ドリンク代¥600、再入場自由",
+          "detail_page_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018485"
+        },
+        {
+          "title": "TOUR 2026 \"Grape\"",
+          "date": "2026-07-04",
+          "performers": [
+            "NOT WONK"
+          ],
+          "is_real": true,
+          "source_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018340",
+          "open_time": "17:30",
+          "start_time": "18:30",
+          "price_advance": "¥4,500",
+          "price_note": "U-25¥3,000(前売のみ)、U-18¥1,000(前売のみ)、+ドリンク代¥600",
+          "detail_page_url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018340"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "新代田FEVER",
+      "name_en": "Shindaita FEVER",
+      "address": "〒156-0042 東京都世田谷区羽根木1-1-14 新代田ビル1F",
+      "address_en": "1F Shindaita Building, 1-1-14 Hanegi, Setagaya-ku, Tokyo 156-0042",
+      "lat": 35.665532,
+      "lng": 139.6577681,
+      "genre": "ロック・インディーズ",
+      "source_url": "https://www.fever-popo.com/",
+      "events": [
+        {
+          "title": "Let It Be",
+          "date": "2026-07-31",
+          "performers": [
+            "moreru",
+            "トリプルファイヤー",
+            "YOLZ IN THE SKY"
+          ],
+          "is_real": true,
+          "source_url": "https://www.fever-popo.com/"
+        },
+        {
+          "title": "Pu Poo Platter live in Tokyo",
+          "date": "2026-08-03",
+          "performers": [
+            "Pu Poo Platter",
+            "maya ongaku"
+          ],
+          "is_real": true,
+          "source_url": "https://www.fever-popo.com/"
+        },
+        {
+          "title": "KiliKiliVilla presents sugar plant x あらかじめ決められた恋人たちへ",
+          "date": "2026-08-13",
+          "performers": [
+            "sugar plant",
+            "あらかじめ決められた恋人たちへ"
+          ],
+          "is_real": true,
+          "source_url": "https://www.fever-popo.com/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "LIQUIDROOM",
+      "name_en": "LIQUIDROOM",
+      "address": "〒150-0011 東京都渋谷区東3-16-6",
+      "address_en": "3-16-6 Higashi, Shibuya-ku, Tokyo 150-0011",
+      "lat": 35.6531376,
+      "lng": 139.7114585,
+      "genre": "ロック・ポップス・エレクトロニック",
+      "source_url": "https://www.liquidroom.net/",
+      "events": [
+        {
+          "title": "ヒトリエ",
+          "date": "2026-07-01",
+          "performers": [
+            "ヒトリエ"
+          ],
+          "is_real": true,
+          "source_url": "https://www.liquidroom.net/schedule/hitorie_20260701",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥5,500",
+          "price_note": "+ドリンク代別途",
+          "detail_page_url": "https://www.liquidroom.net/schedule/hitorie_20260701"
+        },
+        {
+          "title": "androp",
+          "date": "2026-07-03",
+          "performers": [
+            "androp"
+          ],
+          "is_real": true,
+          "source_url": "https://www.liquidroom.net/schedule/androp_20260703",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥5,900",
+          "price_note": "+ドリンク代別途",
+          "detail_page_url": "https://www.liquidroom.net/schedule/androp_20260703"
+        },
+        {
+          "title": "maya ongaku",
+          "date": "2026-07-04",
+          "performers": [
+            "maya ongaku"
+          ],
+          "is_real": true,
+          "source_url": "https://www.liquidroom.net/schedule/mayaongaku_20260704",
+          "open_time": "17:30",
+          "start_time": "18:30",
+          "price_advance": "¥5,000",
+          "price_note": "+ドリンク代別途",
+          "detail_page_url": "https://www.liquidroom.net/schedule/mayaongaku_20260704"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Blue Note Tokyo",
+      "name_en": "Blue Note Tokyo",
+      "address": "〒107-0062 東京都港区南青山6-3-16",
+      "address_en": "6-3-16 Minami-Aoyama, Minato-ku, Tokyo 107-0062",
+      "lat": 35.6612178,
+      "lng": 139.7161915,
+      "genre": "ジャズ",
+      "source_url": "https://www.bluenote.co.jp/jp/",
+      "events": [
+        {
+          "title": "ALFREDO RODRIGUEZ BAND featuring PEDRITO MARTÍNEZ",
+          "date": "2026-10-12",
+          "performers": [
+            "ALFREDO RODRIGUEZ BAND",
+            "PEDRITO MARTÍNEZ"
+          ],
+          "is_real": true,
+          "source_url": "https://www.bluenote.co.jp/jp/"
+        },
+        {
+          "title": "MARIA SCHNEIDER ORCHESTRA",
+          "date": "2026-08-04",
+          "performers": [
+            "MARIA SCHNEIDER ORCHESTRA"
+          ],
+          "is_real": true,
+          "source_url": "https://www.bluenote.co.jp/jp/"
+        },
+        {
+          "title": "YELLOWJACKETS",
+          "date": "2026-10-01",
+          "performers": [
+            "YELLOWJACKETS"
+          ],
+          "is_real": true,
+          "source_url": "https://www.bluenote.co.jp/jp/"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "代官山UNIT",
+      "name_en": "Daikanyama UNIT",
+      "address": "〒150-0001 東京都渋谷区恵比寿西1-34-17",
+      "address_en": "1-34-17 Ebisu-nishi, Shibuya-ku, Tokyo 150-0001",
+      "lat": 35.6483517,
+      "lng": 139.7065258,
+      "genre": "ロック・クラブ・インディーズ",
+      "source_url": "https://unit-tokyo.com/",
+      "events": [
+        {
+          "title": "'Natsudaidai 3rd EP Release Party \"Micro Dance\"",
+          "date": "2026-07-02",
+          "performers": [
+            "Natsudaidai"
+          ],
+          "is_real": true,
+          "source_url": "https://www.unit-tokyo.com/schedule/14214/",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥4,000",
+          "price_note": "+ドリンク代¥600(税込)",
+          "detail_page_url": "https://www.unit-tokyo.com/schedule/14214/"
+        },
+        {
+          "title": "DOTAMA 4MAN LIVE 『社交辞令 vol.42』",
+          "date": "2026-07-04",
+          "performers": [
+            "DOTAMA"
+          ],
+          "is_real": true,
+          "source_url": "https://www.unit-tokyo.com/schedule/14494/",
+          "open_time": "16:15",
+          "detail_page_url": "https://www.unit-tokyo.com/schedule/14494/"
+        },
+        {
+          "title": "The Ravens LIVE TOUR 2026 群像劇",
+          "date": "2026-07-09",
+          "performers": [
+            "The Ravens"
+          ],
+          "is_real": true,
+          "source_url": "https://unit-tokyo.com/schedule",
+          "open_time": "18:00",
+          "price_note": "公演延期"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "WOMB",
+      "name_en": "WOMB",
+      "address": "〒150-0044 東京都渋谷区円山町2-16",
+      "address_en": "2-16 Maruyama-cho, Shibuya-ku, Tokyo 150-0044",
+      "lat": 35.6584259,
+      "lng": 139.6950494,
+      "genre": "クラブ・ハウス・テクノ",
+      "source_url": "https://www.womb.co.jp/",
+      "events": [
+        {
+          "title": "WTW 4TH ANNIVERSARY",
+          "date": "2026-07-01",
+          "performers": [
+            "MONOCHROME",
+            "JURI HOSHINO",
+            "GOLDEN ROA",
+            "WASABI"
+          ],
+          "is_real": true,
+          "source_url": "https://www.womb.co.jp/event/wtw-4th-anniversary",
+          "open_time": "23:00",
+          "price_door": "¥1,500",
+          "price_note": "入場料(営業時間23:00-04:30)",
+          "detail_page_url": "https://www.womb.co.jp/event/wtw-4th-anniversary"
+        },
+        {
+          "title": "INTER",
+          "date": "2026-07-03",
+          "performers": [
+            "DRUNKEN KONG",
+            "RISA TANIGUCHI",
+            "SHANNON BROTHERS",
+            "ALEXANDER M"
+          ],
+          "is_real": true,
+          "source_url": "https://www.womb.co.jp/event/"
+        },
+        {
+          "title": "06S",
+          "date": "2026-07-04",
+          "performers": [
+            "MOB TACTICS",
+            "DJ AKi",
+            "YELLOCK",
+            "YASUKI"
+          ],
+          "is_real": true,
+          "source_url": "https://www.womb.co.jp/event/"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "渋谷WWW",
+      "name_en": "Shibuya WWW",
+      "address": "〒150-0045 東京都渋谷区宇田川町13-17 ライズビル2F",
+      "address_en": "2F Rise Building, 13-17 Udagawacho, Shibuya-ku, Tokyo 150-0045",
+      "lat": 35.6620752,
+      "lng": 139.6974957,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://www-shibuya.jp/",
+      "events": [
+        {
+          "title": "橋本美桜生誕祭2026",
+          "date": "2026-07-26",
+          "performers": [
+            "HzMe",
+            "橋本美桜"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019886.php",
+          "open_time": "16:00",
+          "start_time": "16:30",
+          "price_note": "S席¥7,000/一般¥2,500(スタンディング、ドリンク代別途)",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019886.php"
+        },
+        {
+          "title": "MAVERICK Vol.2",
+          "date": "2026-07-26",
+          "performers": [
+            "Ringwanderung",
+            "Kolokol",
+            "SITUASION",
+            "NUANCE",
+            "RAY",
+            "Axelight"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019919.php",
+          "open_time": "14:30",
+          "start_time": "15:00",
+          "price_advance": "¥3,500",
+          "price_note": "+ドリンク代別途、スタンディング、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019919.php"
+        },
+        {
+          "title": "菊地成孔とペペ・トルメント・アスカラール と betcover!!",
+          "date": "2026-07-27",
+          "performers": [
+            "菊地成孔とペペ・トルメント・アスカラール",
+            "betcover!!"
+          ],
+          "is_real": true,
+          "featured": true,
+          "source_url": "https://www-shibuya.jp/schedule/019769.php",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥5,000",
+          "price_note": "+ドリンク代別途、スタンディング、完売・当日販売なし、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019769.php"
+        },
+        {
+          "title": "ENDRIP. LAST LIVE 『DAY 732. 「僕らの物語は、余白の中へ｡」』",
+          "date": "2026-07-27",
+          "performers": [
+            "ENDRIP."
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019910.php",
+          "open_time": "17:30",
+          "start_time": "18:30",
+          "price_advance": "¥3,500",
+          "price_door": "¥4,000",
+          "price_note": "+ドリンク代別途、招待¥2,500、手売り¥2,500、スタンディング",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019910.php"
+        },
+        {
+          "title": "sajou no hana LIVE TOUR 2026 \"VIBRANT\"",
+          "date": "2026-07-28",
+          "performers": [
+            "sajou no hana"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019863.php",
+          "open_time": "18:30",
+          "start_time": "19:00",
+          "price_advance": "¥6,000",
+          "price_door": "¥7,000",
+          "price_note": "+ドリンク代別途、スタンディング",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019863.php"
+        },
+        {
+          "title": "TIF2026 TIF début Special LIVE",
+          "date": "2026-07-28",
+          "performers": [
+            "可憐なアイボリー",
+            "Sweet Alley",
+            "Pastel Closet",
+            "Ma'Scar'Piece"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019918.php",
+          "open_time": "18:00",
+          "start_time": "18:30",
+          "price_note": "優先エリア¥5,000/一般¥1,000(スタンディング、ドリンク代別途)、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019918.php"
+        },
+        {
+          "title": "かすみ草とステラ 出陣式3マン",
+          "date": "2026-07-29",
+          "performers": [
+            "かすみ草とステラ"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019915.php",
+          "open_time": "13:00",
+          "start_time": "13:30",
+          "price_note": "前段¥4,000/一般¥600(スタンディング、ドリンク代別途)、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019915.php"
+        },
+        {
+          "title": "福井ひより生誕祭 2026",
+          "date": "2026-07-29",
+          "performers": [
+            "かすみ草とステラ"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019881.php",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_note": "S席¥6,000/C席¥10,000/A席¥2,000(スタンディング、ドリンク代別途)、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019881.php"
+        },
+        {
+          "title": "1st One Man Live \"どうして僕はこうなった?\"",
+          "date": "2026-07-29",
+          "performers": [
+            "いまみれん"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019588.php",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,500",
+          "price_note": "+ドリンク代別途、スタンディング",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019588.php"
+        },
+        {
+          "title": "光に向かって",
+          "date": "2026-07-30",
+          "performers": [
+            "食品まつり a.k.a foodman with 光の仲間たち"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019899.php",
+          "open_time": "19:00",
+          "start_time": "20:00",
+          "price_advance": "¥1,500",
+          "price_note": "+ドリンク代別途、スタンディング、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019899.php"
+        },
+        {
+          "title": "カラコルムの山々 One-Man Show",
+          "date": "2026-07-30",
+          "performers": [
+            "カラコルムの山々"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019440.php",
+          "open_time": "18:15",
+          "start_time": "19:00",
+          "price_advance": "¥4,000",
+          "price_note": "+ドリンク代別途、U22¥3,000(要学生証)、完売",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019440.php"
+        },
+        {
+          "title": "JAKIGAN MEISTER TOUR 2026 Neon Overdrive",
+          "date": "2026-07-31",
+          "performers": [
+            "JAKIGAN MEISTER"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019843.php",
+          "open_time": "18:00",
+          "start_time": "18:30",
+          "price_advance": "¥8,500",
+          "price_note": "+ドリンク代別途、スタンディング、WWW X",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019843.php"
+        },
+        {
+          "title": "I'mdifficult x んoon",
+          "date": "2026-07-31",
+          "performers": [
+            "I'mdifficult 我是機車少女",
+            "んoon"
+          ],
+          "is_real": true,
+          "source_url": "https://www-shibuya.jp/schedule/019841.php",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_advance": "¥6,000",
+          "price_door": "¥6,500",
+          "price_note": "+ドリンク代別途、スタンディング",
+          "detail_page_url": "https://www-shibuya.jp/schedule/019841.php"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "下北沢SHELTER",
+      "name_en": "Shimokitazawa SHELTER",
+      "address": "〒155-0031 東京都世田谷区北沢2-6-10 仙田ビルB1",
+      "address_en": "B1 Senda Building, 2-6-10 Kitazawa, Setagaya-ku, Tokyo 155-0031",
+      "lat": 35.6615298,
+      "lng": 139.6695032,
+      "genre": "ロック・インディーズ",
+      "source_url": "http://www.loft-prj.co.jp/SHELTER/",
+      "events": [
+        {
+          "title": "35th Anniversary IGNITION GIGS「地下室ノ正義」",
+          "date": "2026-07-26",
+          "performers": [
+            "kamomekamome",
+            "OLEDICKFOGGY"
+          ],
+          "is_real": true,
+          "source_url": "https://www.loft-prj.co.jp/schedule/shelter/353267",
+          "open_time": "18:30",
+          "start_time": "19:00",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,500",
+          "price_note": "U-22対象者は¥3,000",
+          "detail_page_url": "https://www.loft-prj.co.jp/schedule/shelter/353267"
+        },
+        {
+          "title": "35th Anniversary IGNITION GIGS DAWN",
+          "date": "2026-07-27",
+          "performers": [
+            "下北沢SHELTER",
+            "企画出演者"
+          ],
+          "is_real": true,
+          "source_url": "https://www.loft-prj.co.jp/schedule/shelter/358067",
+          "open_time": "18:00",
+          "start_time": "18:20",
+          "price_advance": "¥2,900",
+          "price_door": "¥3,500",
+          "detail_page_url": "https://www.loft-prj.co.jp/schedule/shelter/358067"
+        },
+        {
+          "title": "PIGGS TOUR 2026",
+          "date": "2026-07-28",
+          "performers": [
+            "PIGGS"
+          ],
+          "is_real": true,
+          "featured": true,
+          "source_url": "https://www.loft-prj.co.jp/schedule/shelter/352900",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_advance": "¥3,929",
+          "price_door": "¥4,500",
+          "price_note": "現在完売。6歳以上チケット必要。U-22は顔写真付き身分証提示必要。",
+          "detail_page_url": "https://www.loft-prj.co.jp/schedule/shelter/352900"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "下北沢CLUB Que",
+      "name_en": "Shimokitazawa CLUB Que",
+      "address": "〒155-0032 東京都世田谷区北沢2-5-2 ビッグベンビルB2",
+      "address_en": "B2 Big Ben Building, 2-5-2 Kitazawa, Setagaya-ku, Tokyo 155-0032",
+      "lat": 35.6634677,
+      "lng": 139.668154,
+      "genre": "ロック・インディーズ",
+      "source_url": "https://clubque.net/",
+      "events": [
+        {
+          "title": "CLUB Que夏ノ陣 VS SERIES ♯FINAL RETURN TO INDEPENDENT",
+          "date": "2026-07-26",
+          "performers": [
+            "外道",
+            "デキシード・ザ・エモンズ"
+          ],
+          "is_real": true,
+          "source_url": "https://clubque.net/schedule/15036/",
+          "open_time": "18:15",
+          "start_time": "19:00",
+          "price_advance": "¥4,300",
+          "price_door": "¥4,500",
+          "price_note": "+1D（配信¥3,300）",
+          "detail_page_url": "https://clubque.net/schedule/15036/"
+        },
+        {
+          "title": "「YouSpica緊急集会」フロアアコースティックLIVE CLUB Que独立応援企画",
+          "date": "2026-07-27",
+          "performers": [
+            "篠塚将行",
+            "のうじょうりえ",
+            "菅澤智史",
+            "ナカガワノリコ",
+            "君が光を掴むまで"
+          ],
+          "is_real": true,
+          "source_url": "https://clubque.net/schedule/15845/",
+          "open_time": "18:15",
+          "start_time": "18:45",
+          "price_advance": "¥2,500",
+          "price_door": "¥2,800",
+          "price_note": "+2D（ドリンク込み）¥1,200追加オプション",
+          "detail_page_url": "https://clubque.net/schedule/15845/"
+        },
+        {
+          "title": "夕焼け空は赤い'26",
+          "date": "2026-07-28",
+          "performers": [
+            "THE RAPTOLS",
+            "ヒガシショウゴ",
+            "スリルTHEスリル"
+          ],
+          "is_real": true,
+          "source_url": "https://clubque.net/schedule/15146/",
+          "open_time": "18:30",
+          "start_time": "19:00",
+          "price_advance": "¥3,000",
+          "price_door": "¥3,300",
+          "price_note": "+1D",
+          "detail_page_url": "https://clubque.net/schedule/15146/"
+        },
+        {
+          "title": "CLUB Que独立記念 AILE C.E Works立ち上げパーティ",
+          "date": "2026-07-31",
+          "performers": [
+            "MAGUMI",
+            "クジヒロコ",
+            "福田政博"
+          ],
+          "is_real": true,
+          "source_url": "https://clubque.net/schedule/16386/",
+          "open_time": "19:00",
+          "start_time": "19:00",
+          "price_note": "FREE（関係者のみ）",
+          "detail_page_url": "https://clubque.net/schedule/16386/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "下北沢 Flowers Loft",
+      "name_en": "Shimokitazawa Flowers Loft",
+      "address": "〒155-0031 東京都世田谷区北沢2丁目24-5 SHIMOKITA FRONT B1",
+      "address_en": "B1 SHIMOKITA FRONT, 2-24-5 Kitazawa, Setagaya-ku, Tokyo 155-0031",
+      "lat": 35.6634677,
+      "lng": 139.668154,
+      "genre": "ロック・ポップス",
+      "source_url": "https://www.loft-prj.co.jp/schedule/flowersloft",
+      "events": [
+        {
+          "title": "Cue-キュー- vol.9 Blue Evening!",
+          "date": "2026-07-30",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://www.loft-prj.co.jp/schedule/flowersloft/355982",
+          "open_time": "13:00",
+          "start_time": "13:20",
+          "price_advance": "¥2,500",
+          "price_note": "学生¥2,000（+1D）。販売：Livepocket・各出演者予約。",
+          "detail_page_url": "https://www.loft-prj.co.jp/schedule/flowersloft/355982"
+        },
+        {
+          "title": "REBEL 2 BANQUET",
+          "date": "2026-08-02",
+          "performers": [],
+          "is_real": true,
+          "source_url": "https://www.loft-prj.co.jp/schedule/flowersloft/349938",
+          "open_time": "18:30",
+          "start_time": "19:00",
+          "price_advance": "¥3,500",
+          "price_door": "¥4,000",
+          "price_note": "1ドリンク別料金版は¥4,000。",
+          "detail_page_url": "https://www.loft-prj.co.jp/schedule/flowersloft/349938"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "下北沢ろくでもない夜",
+      "name_en": "Shimokitazawa Rokudemonai Yoru",
+      "address": "〒155-0031 東京都世田谷区北沢2-6-5 ルイビル3F",
+      "address_en": "3F Rui Building, 2-6-5 Kitazawa, Setagaya-ku, Tokyo 155-0031",
+      "lat": 35.6634677,
+      "lng": 139.668154,
+      "genre": "バンド・インディーズ",
+      "source_url": "https://www.69demonai46.com/",
+      "events": [
+        {
+          "title": "『ゆループ - YOULOOP -』",
+          "date": "2026-07-26",
+          "performers": [
+            "マルチアーティスト企画（約50組）"
+          ],
+          "is_real": true,
+          "source_url": "https://www.69demonai46.com/future"
+        },
+        {
+          "title": "「ごにぎり× GOMESSミニライブ」vol.3",
+          "date": "2026-07-27",
+          "performers": [
+            "GOMESS"
+          ],
+          "is_real": true,
+          "source_url": "https://www.69demonai46.com/future"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "下北沢LIVEHOLIC",
+      "name_en": "Shimokitazawa LIVEHOLIC",
+      "address": "〒155-0031 東京都世田谷区北沢2-6-5 ルイビル5F",
+      "address_en": "5F Rui Building, 2-6-5 Kitazawa, Setagaya-ku, Tokyo 155-0031",
+      "lat": 35.6634677,
+      "lng": 139.668154,
+      "genre": "ロック・インディーズ",
+      "source_url": "https://liveholic.jp/",
+      "events": [
+        {
+          "title": "LIVEHOLIC 11th Anniversary Celebration",
+          "date": "2026-07-31",
+          "performers": [
+            "Koyoi",
+            "Hakumay"
+          ],
+          "is_real": true,
+          "source_url": "https://liveholic.jp/schedule/2026/07/liveholic-11th-anniversary-series-ringringring.php",
+          "open_time": "18:00",
+          "start_time": "18:30",
+          "price_advance": "¥3,000",
+          "price_door": "¥4,000",
+          "price_note": "D別（ドリンク代別途）",
+          "detail_page_url": "https://liveholic.jp/schedule/2026/07/liveholic-11th-anniversary-series-ringringring.php"
+        },
+        {
+          "title": "Fragment Inaugural Live",
+          "date": "2026-08-01",
+          "performers": [
+            "Fragment"
+          ],
+          "is_real": true,
+          "source_url": "https://liveholic.jp/schedule/2026/08/-fragment-1st-liveto-start.php",
+          "open_time": "14:45",
+          "start_time": "15:15",
+          "price_advance": "¥6,000",
+          "price_door": "¥6,000",
+          "price_note": "D別（ドリンク代別途）。2部構成：1部14:45/15:15、2部17:50/18:20。",
+          "detail_page_url": "https://liveholic.jp/schedule/2026/08/-fragment-1st-liveto-start.php"
+        },
+        {
+          "title": "DRAFT FES 2026 SUMMER",
+          "date": "2026-08-13",
+          "performers": [
+            "マルチアーティスト企画"
+          ],
+          "is_real": true,
+          "source_url": "https://liveholic.jp/schedule/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "CITAN",
+      "name_en": "CITAN",
+      "address": "東京都中央区日本橋大伝馬町15-2",
+      "address_en": "15-2 Nihonbashi-Odenmacho, Chuo-ku, Tokyo",
+      "lat": 35.6915643,
+      "lng": 139.7813687,
+      "genre": "DJ・クラブ・ラウンジ",
+      "source_url": "https://backpackersjapan.co.jp/citan/",
+      "events": [
+        {
+          "title": "CITAN TAIWAN DAY",
+          "date": "2026-08-29",
+          "performers": [
+            "International DJs"
+          ],
+          "is_real": true,
+          "source_url": "https://backpackersjapan.co.jp/citan/archives/5968",
+          "open_time": "18:00",
+          "start_time": "18:00",
+          "price_note": "入場無料",
+          "detail_page_url": "https://backpackersjapan.co.jp/citan/archives/5968"
+        },
+        {
+          "title": "CITAN TAIWAN DAY",
+          "date": "2026-08-30",
+          "performers": [
+            "International DJs"
+          ],
+          "is_real": true,
+          "source_url": "https://backpackersjapan.co.jp/citan/archives/5968",
+          "open_time": "18:00",
+          "start_time": "18:00",
+          "price_note": "入場無料",
+          "detail_page_url": "https://backpackersjapan.co.jp/citan/archives/5968"
+        },
+        {
+          "title": "土曜DJラウンジ営業(詳細は公式サイトへ)",
+          "date": "2026-08-01",
+          "performers": [
+            "Guest DJ"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ。毎週金土にDJ/ライブが行われているため"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "MUSIC BAR BOUNCE",
+      "name_en": "MUSIC BAR BOUNCE",
+      "address": "東京都渋谷区道玄坂2-19-12 東洋道玄坂ビル2F",
+      "address_en": "2F Toyo Dogenzaka Building, 2-19-12 Dogenzaka, Shibuya-ku, Tokyo",
+      "lat": 35.6592889,
+      "lng": 139.6986865,
+      "genre": "ヒップホップ・ソウル・R&B・ジャズ",
+      "source_url": "https://www.instagram.com/musicbarbounce/",
+      "events": [
+        {
+          "title": "金曜DJラウンジ営業(詳細は公式サイトへ)",
+          "date": "2026-08-07",
+          "performers": [
+            "Guest DJ"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ。公開イベント情報が確認できないため"
+        },
+        {
+          "title": "金曜DJラウンジ営業(詳細は公式サイトへ)",
+          "date": "2026-08-21",
+          "performers": [
+            "Resident DJ Crew"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ。公開イベント情報が確認できないため"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "原宿RUIDO",
+      "name_en": "Harajuku RUIDO",
+      "address": "〒150-0001 東京都渋谷区神宮前1-15-2",
+      "address_en": "1-15-2 Jingumae, Shibuya-ku, Tokyo 150-0001",
+      "lat": 35.6692039,
+      "lng": 139.7072847,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://ruido.org/harajuku/",
+      "events": [
+        {
+          "title": "ライブハウスナイト 月曜公演",
+          "date": "2026-07-27",
+          "performers": [
+            "アーティスト未定"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://ruido.org/harajuku/"
+        },
+        {
+          "title": "インディーズアーティスト育成ライブ",
+          "date": "2026-08-03",
+          "performers": [
+            "新進気鋭のバンド"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://ruido.org/harajuku/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "青山RizM",
+      "name_en": "Aoyama RizM",
+      "address": "〒107-0061 東京都港区北青山1-4-5 VORT青山一丁目 Dual's B1F",
+      "address_en": "B1F VORT Aoyama-itchome Dual's, 1-4-5 Kita-Aoyama, Minato-ku, Tokyo 107-0061",
+      "lat": 35.6705999,
+      "lng": 139.7159289,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://ruido.org/rizm/",
+      "events": [
+        {
+          "title": "青山RizM定期ロックナイト",
+          "date": "2026-07-29",
+          "performers": [
+            "アーティスト未定"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://ruido.org/rizm/"
+        },
+        {
+          "title": "夏のロックフェスティバルプレイベント",
+          "date": "2026-08-05",
+          "performers": [
+            "青山ロックバンド大集合"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://ruido.org/rizm/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "南青山MANDALA",
+      "name_en": "Minami-Aoyama MANDALA",
+      "address": "〒107-0062 東京都港区南青山3-2-2 MRビルB1F",
+      "address_en": "B1F MR Building, 3-2-2 Minami-Aoyama, Minato-ku, Tokyo 107-0062",
+      "lat": 35.6667236,
+      "lng": 139.7188607,
+      "genre": "ロック・ライブ",
+      "source_url": "https://mandala.gr.jp/aoyama/",
+      "events": [
+        {
+          "title": "歌う詩人",
+          "date": "2026-07-27",
+          "performers": [
+            "歌う詩人"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/aoyama/schedule/20260727/",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥8,800",
+          "price_door": "¥8,800",
+          "price_note": "+1D別",
+          "detail_page_url": "https://mandala.gr.jp/aoyama/schedule/20260727/"
+        },
+        {
+          "title": "歌う詩人",
+          "date": "2026-07-28",
+          "performers": [
+            "歌う詩人"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/aoyama/schedule/20260728/",
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "¥8,800",
+          "price_door": "¥8,800",
+          "price_note": "+1D別",
+          "detail_page_url": "https://mandala.gr.jp/aoyama/schedule/20260728/"
+        },
+        {
+          "title": "MT企画 第５回公演 『午後の光』",
+          "date": "2026-07-30",
+          "performers": [
+            "MT企画"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/aoyama/schedule/",
+          "open_time": "19:00",
+          "start_time": "19:30",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,000",
+          "price_note": "+1D別"
+        },
+        {
+          "title": "MT企画 第５回公演 『午後の光』",
+          "date": "2026-07-31",
+          "performers": [
+            "MT企画"
+          ],
+          "is_real": true,
+          "source_url": "https://mandala.gr.jp/aoyama/schedule/",
+          "open_time": "14:30/18:30",
+          "start_time": "15:00/19:00",
+          "price_advance": "¥4,000",
+          "price_door": "¥4,000",
+          "price_note": "+1D別"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "ORD.",
+      "name_en": "ORD.",
+      "address": "〒150-0001 東京都渋谷区恵比寿西1-34-17 za HOUSE 2F",
+      "address_en": "2F za HOUSE, 1-34-17 Ebisu-nishi, Shibuya-ku, Tokyo 150-0001",
+      "lat": 35.6483517,
+      "lng": 139.7065258,
+      "genre": "クラブ・ハウス・テクノ",
+      "source_url": "https://www.ord-daikanyama.com/",
+      "events": [
+        {
+          "title": "代官山クラブナイト - ハウスミュージック",
+          "date": "2026-07-30",
+          "performers": [
+            "DJ未定"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://www.ord-daikanyama.com/"
+        },
+        {
+          "title": "テクノサマーパーティ",
+          "date": "2026-08-08",
+          "performers": [
+            "ゲストDJ"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://www.ord-daikanyama.com/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "Tableaux Lounge",
+      "name_en": "Tableaux Lounge",
+      "address": "〒150-0046 東京都渋谷区猿楽町11-6 Sunrose Daikanyama B1F",
+      "address_en": "B1F Sunrose Daikanyama, 11-6 Sarugakucho, Shibuya-ku, Tokyo 150-0046",
+      "lat": 35.6501019,
+      "lng": 139.7011319,
+      "genre": "ジャズ・ラテン・ラウンジ",
+      "source_url": "https://tableauxlounge.jp/",
+      "events": [
+        {
+          "title": "ジャズラウンジナイト - ピアノトリオ",
+          "date": "2026-07-31",
+          "performers": [
+            "ピアノトリオ"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://tableauxlounge.jp/"
+        },
+        {
+          "title": "ラテンナイト with DJ",
+          "date": "2026-08-14",
+          "performers": [
+            "ラテンDJ"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://tableauxlounge.jp/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "SHIBUYA DIVE",
+      "name_en": "SHIBUYA DIVE",
+      "address": "〒150-0011 東京都渋谷区東2-22-5 Shibuya Logi 1F & B1F",
+      "address_en": "1F & B1F Shibuya Logi, 2-22-5 Higashi, Shibuya-ku, Tokyo 150-0011",
+      "lat": 35.6703406,
+      "lng": 139.7136364,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://shibuya-dive.com/",
+      "events": [
+        {
+          "title": "bamboo生誕記念 無料ギグ 『愛と感謝の爆音還元祭』",
+          "date": "2026-07-26",
+          "performers": [
+            "bamboo"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "13:00",
+          "start_time": "13:30",
+          "price_advance": "無料",
+          "price_door": "無料"
+        },
+        {
+          "title": "Sweet Alley定期公演 vol.78",
+          "date": "2026-07-27",
+          "performers": [
+            "Sweet Alley"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "18:30",
+          "start_time": "19:00"
+        },
+        {
+          "title": "amini -ツアー振り返り公演-",
+          "date": "2026-07-28",
+          "performers": [
+            "amini"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "18:30",
+          "start_time": "19:00"
+        },
+        {
+          "title": "Bestted×BANGERS Special 2man Live",
+          "date": "2026-07-29",
+          "performers": [
+            "Bestted",
+            "BANGERS"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "17:30",
+          "start_time": "18:00"
+        },
+        {
+          "title": "ドリモン×アンフィナ 2man LIVE",
+          "date": "2026-07-30",
+          "performers": [
+            "ドリモン",
+            "アンフィナ"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "18:30",
+          "start_time": "19:00",
+          "price_advance": "¥3,000(前)/ ¥1,000(後)",
+          "price_door": "¥3,000(前)/ ¥1,000(後)",
+          "price_note": "+1D別"
+        },
+        {
+          "title": "『10th Spirits 「HIGH SPIRITS × ハレとハレ! × MEOWMEW」』",
+          "date": "2026-07-31",
+          "performers": [
+            "HIGH SPIRITS",
+            "ハレとハレ!",
+            "MEOWMEW"
+          ],
+          "is_real": true,
+          "source_url": "https://shibuya-dive.com/schedule/",
+          "open_time": "18:00",
+          "start_time": "18:30"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    },
+    {
+      "name": "Viblue EBISU",
+      "name_en": "Viblue EBISU",
+      "address": "〒150-0022 東京都渋谷区恵比寿南2-3-14 CONZE恵比寿 B1F",
+      "address_en": "B1F CONZE Ebisu, 2-3-14 Ebisu-minami, Shibuya-ku, Tokyo 150-0022",
+      "lat": 35.6443063,
+      "lng": 139.7083068,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://viblue.jp/",
+      "events": [
+        {
+          "title": "恵比寿ロックナイト - インディーズ新人発掘",
+          "date": "2026-08-02",
+          "performers": [
+            "新進気鋭のアーティスト"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://viblue.jp/"
+        },
+        {
+          "title": "サマーライブシリーズ Vol.1",
+          "date": "2026-08-09",
+          "performers": [
+            "アーティスト未定"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://viblue.jp/"
+        }
+      ],
+      "geocode_precision": "town_level_address"
+    },
+    {
+      "name": "MUSIC BAR berkana",
+      "name_en": "MUSIC BAR berkana",
+      "address": "〒150-0022 東京都目黒区三田1-13-4 恵比寿ガーデンプレイス BRICK END内",
+      "address_en": "BRICK END, Ebisu Garden Place, 1-13-4 Mita, Meguro-ku, Tokyo 150-0022",
+      "lat": 35.6413397,
+      "lng": 139.7133729,
+      "genre": "ジャズ・ビニール・ラウンジ",
+      "source_url": "https://www.ordinary-inc.jp/",
+      "events": [
+        {
+          "title": "ジャズレコードリスニングナイト",
+          "date": "2026-08-01",
+          "performers": [
+            "マスターセレクション"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://www.ordinary-inc.jp/"
+        },
+        {
+          "title": "ビニールサマーナイト - アナログレコード特集",
+          "date": "2026-08-15",
+          "performers": [
+            "DJマスター"
+          ],
+          "is_real": false,
+          "note": "プロトタイプ用の架空データ",
+          "source_url": "https://www.ordinary-inc.jp/"
+        }
+      ],
+      "geocode_precision": "venue_name"
+    }
+  ]
+}
