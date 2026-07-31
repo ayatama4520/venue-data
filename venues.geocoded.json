@@ -3938,7 +3938,8 @@
           "date": "2026-08-02",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/48215"
+          "detail_page_url": "https://seata.jp/schedule/detail/48215",
+          "performers": []
         },
         {
           "title": "CLUB SEATA 17th Anniversary (極)",
@@ -3958,28 +3959,32 @@
           "date": "2026-08-04",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/48856"
+          "detail_page_url": "https://seata.jp/schedule/detail/48856",
+          "performers": []
         },
         {
           "title": "STATiC",
           "date": "2026-08-05",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/53371"
+          "detail_page_url": "https://seata.jp/schedule/detail/53371",
+          "performers": []
         },
         {
           "title": "I:COLE vol.18",
           "date": "2026-08-06",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/48857"
+          "detail_page_url": "https://seata.jp/schedule/detail/48857",
+          "performers": []
         },
         {
           "title": "여기여기 (YogiYogi)vol.35",
           "date": "2026-08-07",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/53255"
+          "detail_page_url": "https://seata.jp/schedule/detail/53255",
+          "performers": []
         },
         {
           "title": "キスクラ1st One-Man Live - ECHORIZE -",
@@ -3998,7 +4003,8 @@
           "date": "2026-08-09",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/47306"
+          "detail_page_url": "https://seata.jp/schedule/detail/47306",
+          "performers": []
         },
         {
           "title": "夏の約束",
@@ -4019,21 +4025,24 @@
           "date": "2026-08-15",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/53479"
+          "detail_page_url": "https://seata.jp/schedule/detail/53479",
+          "performers": []
         },
         {
           "title": "ベーシスト・オン・トップ～BASSTARIANナイト3～",
           "date": "2026-08-20",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/49226"
+          "detail_page_url": "https://seata.jp/schedule/detail/49226",
+          "performers": []
         },
         {
           "title": "ズマズマズマvol.3",
           "date": "2026-08-22",
           "is_real": true,
           "source_url": "https://seata.jp/schedule/calendar/2026/08/",
-          "detail_page_url": "https://seata.jp/schedule/detail/42243"
+          "detail_page_url": "https://seata.jp/schedule/detail/42243",
+          "performers": []
         }
       ],
       "geocode_precision": "chome_level_address"
@@ -4169,7 +4178,8 @@
           "date": "2026-09-12",
           "is_real": true,
           "source_url": "https://www.rjgb.tokyo/schedule",
-          "price_note": "livepocket.jp/e/260912にて予約受付;演者・時間は個別未確認"
+          "price_note": "livepocket.jp/e/260912にて予約受付;演者・時間は個別未確認",
+          "performers": []
         },
         {
           "title": "69 Paradise",
