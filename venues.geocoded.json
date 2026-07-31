@@ -1216,8 +1216,8 @@
       "name_en": "CLUB SEATA",
       "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-20-3 吉祥寺パーキングプラザB1F",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.705245,
+      "lng": 139.5810051,
       "genre": "ヒップホップ・テクノ・エレクトロニック・クラブ",
       "source_url": "https://seata.jp/",
       "events": [
@@ -1303,15 +1303,15 @@
           "detail_page_url": "https://seata.jp/schedule/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "ROCK JOINT GB",
       "name_en": "ROCK JOINT GB",
       "address": "〒180-0004 東京都武蔵野市吉祥寺本町2-13-14 B1",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.7057807,
+      "lng": 139.5766713,
       "genre": "ロック・ポップス・バンド・ライブ",
       "source_url": "https://www.rjgb.tokyo/",
       "events": [
@@ -1342,39 +1342,39 @@
           "detail_page_url": "https://www.rjgb.tokyo/schedule"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Kichijoji WARP",
       "name_en": "Kichijoji WARP",
       "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-30-10",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.705245,
+      "lng": 139.5810051,
       "genre": "ロック・バンド・ライブ・クラブ・DJ",
       "source_url": "http://warp.rinky.info/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "SILVER ELEPHANT",
       "name_en": "SILVER ELEPHANT",
       "address": "〒180-0004 武蔵野市吉祥寺本町2-10-6-B1",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.7057807,
+      "lng": 139.5766713,
       "genre": "ロック・ポップス・フォーク・プログレッシブロック・ライブ",
       "source_url": "https://www.silver-elephant.com/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "STAR PINE'S CAFE",
       "name_en": "STAR PINE'S CAFE",
       "address": "〒180-0004 武蔵野市吉祥寺本町1-20-16 B1",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.705245,
+      "lng": 139.5810051,
       "genre": "ヒップホップ・ライブ・R&B・ジャズ・ラウンジ",
       "source_url": "https://mandala.gr.jp/SPC/",
       "events": [
@@ -1424,27 +1424,27 @@
           "detail_page_url": "https://mandala.gr.jp/SPC/schedule/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "CRESCENDO",
       "name_en": "CRESCENDO",
       "address": "〒180-0004 東京都武蔵野市吉祥寺東町1-25-24 サンパレス東町B1F",
       "address_en": null,
-      "lat": 35.7088234,
-      "lng": 139.586782,
+      "lat": 35.7066421,
+      "lng": 139.5839705,
       "genre": "ロック・メタル・ハードロック・ハードコア・インディーズ",
       "source_url": "https://kichicre.thebase.in/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Planet K",
       "name_en": "Planet K",
       "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-10-4 古城会館ビル B1F",
       "address_en": null,
-      "lat": 35.7043267,
-      "lng": 139.5775409,
+      "lat": 35.705245,
+      "lng": 139.5810051,
       "genre": "ロック・ポップス・バンド・ライブ・インディーズ",
       "source_url": "https://inter-planets.net/",
       "events": [
@@ -1464,27 +1464,27 @@
           "detail_page_url": "https://eplus.jp/sf/venue/1800080/events"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Black & Blue",
       "name_en": "Black & Blue",
       "address": "〒180-0004 東京都武蔵野市吉祥寺本町1-24-5 3F",
       "address_en": null,
-      "lat": 35.7584511,
-      "lng": 139.5298258,
+      "lat": 35.705245,
+      "lng": 139.5810051,
       "genre": "ロック・ポップス・バンド・ライブ・DJ",
       "source_url": "http://blackandblue.tokyo/",
       "events": [],
-      "geocode_precision": "venue_name"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "KICHIJOJI SHUFFLE",
       "name_en": "KICHIJOJI SHUFFLE",
       "address": "〒180-0004 東京都武蔵野市吉祥寺南町2-6-10 フジパームビル B1F",
       "address_en": null,
-      "lat": 35.6996526,
-      "lng": 139.5852469,
+      "lat": 35.7016027,
+      "lng": 139.5841345,
       "genre": "ロック・ポップス・バンド・ライブ・インディーズ・エレクトロニック",
       "source_url": "http://k-shuffle.com/",
       "events": [
@@ -1504,31 +1504,31 @@
           "detail_page_url": "http://k-shuffle.com/sched"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "曼荼羅",
       "name_en": "Mandala",
       "address": "〒180-0003 東京都武蔵野市吉祥寺南町1-5-2",
       "address_en": null,
-      "lat": 35.6996526,
-      "lng": 139.5852469,
+      "lat": 35.7005275,
+      "lng": 139.5807459,
       "genre": "ロック・ポップス・ジャズ・フォーク・バンド・ライブ・ラウンジ",
       "source_url": "https://www.mandala-1.com/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "NEPO",
       "name_en": "NEPO",
       "address": "〒181-0013 東京都三鷹市下連雀1-17-4 GRATO井の頭公園 B1",
       "address_en": null,
-      "lat": 35.6964799,
-      "lng": 139.565496,
+      "lat": 35.69524,
+      "lng": 139.570167,
       "genre": "ロック・ポップス・バンド・ライブ・インディーズ・エレクトロニック・ジャズ",
       "source_url": "https://nepo.co.jp/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "JIROKICHI",
@@ -1578,36 +1578,36 @@
       "name_en": "MOON STOMP",
       "address": "〒166-0002 東京都杉並区高円寺北2-22-6 キャニオンプラザ大須賀 B103",
       "address_en": null,
-      "lat": 35.7073164,
-      "lng": 139.6548546,
+      "lat": 35.7074947,
+      "lng": 139.652781,
       "genre": "ジャズ・ワールドミュージック・ブルース・ラテン・ラウンジ",
       "source_url": "https://bighitcompany.com/moonstomp/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Club ROOTS",
       "name_en": "Club ROOTS!",
       "address": "〒166-0002 東京都杉並区高円寺北3-22-3 群星館B1F",
       "address_en": null,
-      "lat": 35.7073164,
-      "lng": 139.6548546,
+      "lat": 35.7078454,
+      "lng": 139.6482776,
       "genre": "ロック・ポップス・バンド・ライブ・インディーズ",
       "source_url": "http://www.muribushi.jp/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "DJ'S BAR CAVE",
       "name_en": "DJ'S BAR CAVE",
       "address": "〒166-0003 東京都杉並区高円寺南4-23-5 ACPビルB1",
       "address_en": null,
-      "lat": 35.7000231,
-      "lng": 139.6549094,
+      "lat": 35.70417,
+      "lng": 139.6527502,
       "genre": "テクノ・ハウス・トランス・エレクトロニック・DJ・クラブ",
       "source_url": "https://www.djsbarcave.tokyo/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "高円寺HIGH",
@@ -1638,56 +1638,56 @@
       "name_en": "LOFTX Koenji",
       "address": "〒166-0011 東京都杉並区梅里2-9-11 小池ビルB1",
       "address_en": null,
-      "lat": 35.6969116,
-      "lng": 139.6457468,
+      "lat": 35.6964418,
+      "lng": 139.6439992,
       "genre": "ロック・ポップス・インディーズ・ライブ・バンド",
       "source_url": "http://loft-prj.co.jp/LOFTX/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Show Boat",
       "name_en": "Show Boat",
       "address": "〒166-0002 東京都杉並区高円寺北3-17-2 オークヒル高円寺B1",
       "address_en": null,
-      "lat": 35.7073164,
-      "lng": 139.6548546,
+      "lat": 35.7078454,
+      "lng": 139.6482776,
       "genre": "ロック・ポップス・ジャズ・ライブ",
       "source_url": "https://www.showboat1993.com/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "十話音",
       "name_en": "Towa-On",
       "address": "〒166-0002 東京都杉並区高円寺北3-2-15 B1",
       "address_en": null,
-      "lat": 35.7073164,
-      "lng": 139.6548546,
+      "lat": 35.7078454,
+      "lng": 139.6482776,
       "genre": "ジャズ・ラウンジ",
       "source_url": "https://toi-own.com",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "DJ Bar Irie",
       "name_en": "DJ Bar Irie",
       "address": "〒166-0003 東京都杉並区高円寺南3-58-15",
       "address_en": null,
-      "lat": 35.7000231,
-      "lng": 139.6549094,
+      "lat": 35.7014789,
+      "lng": 139.6462284,
       "genre": "ヒップホップ・R&B・ソウル・DJ",
       "source_url": "https://koenji-depart.com/shop_info/irie/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "新宿club SCIENCE",
       "name_en": "Shinjuku club SCIENCE",
       "address": "〒160-0021 東京都新宿区歌舞伎町2-25-6 永和第6ビル B1F",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.696554,
+      "lng": 139.7043747,
       "genre": "ロック・パンク・インディーズ・エレクトロニック",
       "source_url": "https://club-science.com/",
       "events": [
@@ -1720,43 +1720,43 @@
           "detail_page_url": "https://club-science.com/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "ゴールデンエッグ",
       "name_en": "Golden Egg",
       "address": "〒160-0008 東京都新宿区歌舞伎町1-16-10 第27東京ビル B2F",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.6953799,
+      "lng": 139.7017233,
       "genre": "ロック・ジャズ・ファンク・ソウル",
       "source_url": "https://g-egg.info/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "新宿motion",
       "name_en": "Shinjuku Motion",
       "address": "〒160-0021 東京都新宿区歌舞伎町2-45-2 ジャストビル5F",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.696554,
+      "lng": 139.7043747,
       "genre": "ロック・インディーズ・バンド",
       "source_url": "https://www.shinjyuku-motion.jp/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "新宿ACE",
       "name_en": "Shinjuku ACE",
       "address": "〒160-0021 東京都新宿区歌舞伎町2-45-4 与三郎ビル3階",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.696554,
+      "lng": 139.7043747,
       "genre": "ロック・インディーズ・バンド・ライブ",
       "source_url": "https://npro.city/live-house/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Zepp Shinjuku (TOKYO)",
@@ -1791,8 +1791,8 @@
       "name_en": "Shinjuku PIT INN",
       "address": "〒160-0022 東京都新宿区新宿2-12-4 アコード新宿 B1F",
       "address_en": null,
-      "lat": 35.6903709,
-      "lng": 139.6997378,
+      "lat": 35.6900255,
+      "lng": 139.7089198,
       "genre": "ジャズ",
       "source_url": "http://pit-inn.com/",
       "events": [
@@ -1827,15 +1827,15 @@
           "detail_page_url": "http://pit-inn.com/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Black Sun Jazz Club",
       "name_en": "Black Sun Jazz Club",
       "address": "〒160-0021 東京都新宿区歌舞伎町1-10-5 えびす会館 4F",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.6953799,
+      "lng": 139.7017233,
       "genre": "ジャズ",
       "source_url": "http://blacksun.jazznet.jp/",
       "events": [
@@ -1855,19 +1855,19 @@
           "detail_page_url": "http://blacksun.jazznet.jp/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Jazz Cafe Bar DUG",
       "name_en": "Jazz Cafe Bar DUG",
       "address": "〒160-0022 東京都新宿区新宿3-15-12",
       "address_en": null,
-      "lat": 35.6928536,
-      "lng": 139.7035439,
+      "lat": 35.6908282,
+      "lng": 139.7062103,
       "genre": "ジャズ",
       "source_url": "http://www.dug.co.jp/",
       "events": [],
-      "geocode_precision": "venue_name"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "THEATER MILANO-Za",
@@ -1886,8 +1886,8 @@
       "name_en": "DJ BAR Bridge Shinjuku",
       "address": "〒160-0022 東京都新宿区新宿2-19-9 角ビル B1F",
       "address_en": null,
-      "lat": 35.6903709,
-      "lng": 139.6997378,
+      "lat": 35.6900255,
+      "lng": 139.7089198,
       "genre": "ハウス・テクノ・エレクトロニック・DJ",
       "source_url": "https://djbar-bridge.com/shinjuku/",
       "events": [
@@ -1944,15 +1944,15 @@
           "detail_page_url": "https://djbar-bridge.com/shinjuku/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "Music Bar ROCKAHOLIC",
       "name_en": "Music Bar ROCKAHOLIC",
       "address": "〒160-0021 東京都新宿区歌舞伎町2-38-3 stella.k B1F",
       "address_en": null,
-      "lat": 35.6945429,
-      "lng": 139.7027105,
+      "lat": 35.696554,
+      "lng": 139.7043747,
       "genre": "ロック・バンド・インディーズ",
       "source_url": "https://bar-rockaholic.jp/shinjuku/",
       "events": [
@@ -1998,19 +1998,19 @@
           "detail_page_url": "https://bar-rockaholic.jp/shinjuku/"
         }
       ],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     },
     {
       "name": "DJ BAR Heart",
       "name_en": "DJ BAR Heart",
       "address": "〒160-0022 東京都新宿区新宿2-19-9 角ビル B1F",
       "address_en": null,
-      "lat": 35.6903709,
-      "lng": 139.6997378,
+      "lat": 35.6900255,
+      "lng": 139.7089198,
       "genre": "DJ・ハウス・テクノ・ディスコ・ヒップホップ",
       "source_url": "https://heart-tokyo.com/",
       "events": [],
-      "geocode_precision": "town_level_address"
+      "geocode_precision": "chome_level_address"
     }
   ]
 }
