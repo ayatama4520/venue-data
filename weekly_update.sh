@@ -38,7 +38,8 @@ venues.geocoded.json 内の各会場について、source_url(公式サイト)�
 - performers は出演者が確認できない場合も必ず空配列 [] として記載すること(キー自体を省略しない)。アプリ側のデコード必須項目のため、キー欠落があるとアプリのデータ読み込みが全会場分エラーになる
 
 ## 完了後
-変更した内容を venues.geocoded.json に反映し、git でコミット・push してください(コミットメッセージには変更概要を含めること。main ブランチに直接pushでよい)。
+変更した内容を venues.geocoded.json に反映し、git でコミットしてください(コミットメッセージには変更概要を含めること)。
+**push はしないでください**。push はこのスクリプト側でデータ検証(validate_venues.py)を通してから別途行います。
 
 最後に、必ず以下を含む報告を出力してください(CEOが人力で確認するため、この報告が最も重要です):
 - 確認した会場数、実際に変更があった会場数
@@ -49,8 +50,21 @@ venues.geocoded.json 内の各会場について、source_url(公式サイト)�
 
 OUTPUT=$(claude -p "$PROMPT" \
   --permission-mode acceptEdits \
-  --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch" \
+  --allowedTools "Bash(git *),Read,Write,Edit,Glob,Grep,WebFetch,WebSearch" \
   --output-format text 2>&1) || OUTPUT="[エラー] スクリプトが異常終了しました。$OUTPUT"
+
+# エージェントがコミットまでは行っている想定。pushする前に必ずデータを検証する
+# (フェーズiOS-4o。performers欠落バグの再発防止策。データ生成元での予防)。
+VALIDATION=$(python3 "$REPO_DIR/validate_venues.py" "$REPO_DIR/venues.geocoded.json" 2>&1)
+VALIDATION_STATUS=$?
+
+if [ "$VALIDATION_STATUS" -eq 0 ]; then
+  git push --quiet origin main
+  PUSH_STATUS="push済み"
+else
+  # 検証NGの場合はpushしない。コミット自体はローカルに残すので、後で人が内容を見て判断できる。
+  PUSH_STATUS="検証NGのためpushしていません。ローカルにコミットのみ残っています(要確認)。"
+fi
 
 {
   echo ""
@@ -58,8 +72,16 @@ OUTPUT=$(claude -p "$PROMPT" \
   echo ""
   echo "## $DATE_STR"
   echo ""
+  echo "**検証結果:** $VALIDATION"
+  echo ""
+  echo "**push状態:** $PUSH_STATUS"
+  echo ""
   echo "$OUTPUT"
 } >> "$LOG_FILE"
 
-SUMMARY_LINE=$(echo "$OUTPUT" | grep -m1 -E "確認した会場数|変更が1件もなかった|エラー" || echo "詳細はログを確認してください")
+if [ "$VALIDATION_STATUS" -eq 0 ]; then
+  SUMMARY_LINE=$(echo "$OUTPUT" | grep -m1 -E "確認した会場数|変更が1件もなかった|エラー" || echo "詳細はログを確認してください")
+else
+  SUMMARY_LINE="⚠ データ検証NG。pushしていません。ログを確認してください。"
+fi
 osascript -e "display notification \"$SUMMARY_LINE\" with title \"Venue 週次データ更新\" subtitle \"$DATE_STR\""
