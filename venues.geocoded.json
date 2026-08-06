@@ -7076,6 +7076,240 @@
       "source_url": "https://heart-tokyo.com/",
       "events": [],
       "geocode_precision": "chome_level_address"
+    },
+    {
+      "name": "CREAM LIVE ASAKUSA",
+      "name_en": "CREAM LIVE ASAKUSA",
+      "address": "〒111-0032 東京都台東区浅草1-10-5 KN浅草ビル B1F",
+      "address_en": "1F B1, KN Asakusa Building, 1-10-5 Asakusa, Taito Ward, Tokyo 111-0032",
+      "lat": 35.7119497,
+      "lng": 139.7948545,
+      "genre": "ライブ・ポップス・インディーズ・ロック・K-POP・演劇",
+      "source_url": "https://asakusa.cream-live.com/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "華MEN組 ～真夏のゲキアイ🔥LOVE全開だよ♡✨Specialファンミーティング～",
+          "date": "2026-08-09",
+          "is_real": true,
+          "performers": [
+            "華MEN組"
+          ],
+          "source_url": "https://asakusa.cream-live.com/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "CREAM COMEDY LIVE お笑いライブ",
+          "date": "2026-08-10",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://asakusa.cream-live.com/",
+          "open_time": "12:00",
+          "start_time": "12:00",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "RYU PHILLIP&CHO JUN CONCERT IN TOKYO 「FOR YOU, ALWAYS」",
+          "date": "2026-08-16",
+          "is_real": true,
+          "performers": [
+            "RYU PHILLIP",
+            "CHO JUN"
+          ],
+          "source_url": "https://asakusa.cream-live.com/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "Cho Jun Concert In Tokyo 「花 – HANA」",
+          "date": "2026-08-23",
+          "is_real": true,
+          "performers": [
+            "CHO JUN"
+          ],
+          "source_url": "https://asakusa.cream-live.com/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "CREAM COMEDY LIVE お笑いライブ",
+          "date": "2026-08-26",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://asakusa.cream-live.com/",
+          "open_time": "12:00",
+          "start_time": "12:00",
+          "price_advance": "不明",
+          "price_door": "不明"
+        }
+      ]
+    },
+    {
+      "name": "浅草 VAMPKIN",
+      "name_en": "Asakusa VAMPKIN",
+      "address": "〒111-0032 東京都台東区浅草2-10 ドン・キホーテ浅草店7F",
+      "address_en": "7F Don Quijote Asakusa Store, 2-10 Asakusa, Taito Ward, Tokyo 111-0032",
+      "lat": 35.713861,
+      "lng": 139.793093,
+      "genre": "ロック・インディーズ・バンド",
+      "source_url": "https://vampkin.jp/",
+      "geocode_precision": "building",
+      "events": [
+        {
+          "title": "DA VAMP vol.93 ~アンクライシス LAST DA VAMP~",
+          "date": "2026-08-06",
+          "is_real": true,
+          "performers": [
+            "Dusk",
+            "Dorothy∞Drop",
+            "アンクライシス"
+          ],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "BLAST vol.4",
+          "date": "2026-08-08",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "ASAKUSA DREAMBOX - 150th Anniversary Special",
+          "date": "2026-08-11",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明",
+          "price_note": "30以上のアイドルグループが出演"
+        },
+        {
+          "title": "Danso Plus Japan Festival 2026 Part1",
+          "date": "2026-08-23",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "Danso Plus Japan Festival 2026 Part2",
+          "date": "2026-08-23",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        },
+        {
+          "title": "直 4周年記念 ONEMAN LIVE",
+          "date": "2026-08-26",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://vampkin.jp/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明"
+        }
+      ]
+    },
+    {
+      "name": "Live-Bar Darling",
+      "name_en": "Live-Bar Darling",
+      "address": "〒111-0032 東京都台東区浅草2-1-17 2F",
+      "address_en": "2F, 2-1-17 Asakusa, Taito Ward, Tokyo 111-0032",
+      "lat": 35.714955,
+      "lng": 139.7957367,
+      "genre": "ジャズ・ライブ",
+      "source_url": "https://www.live-darling.com/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "ライブバー営業（詳細スケジュール確認要）",
+          "date": "2026-08-01",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://www.live-darling.com/",
+          "open_time": "19:30",
+          "start_time": "19:30",
+          "price_advance": "不明",
+          "price_door": "不明",
+          "price_note": "営業時間：毎日19:30-22:00"
+        }
+      ]
+    },
+    {
+      "name": "Platinum PLANET",
+      "name_en": "Platinum PLANET",
+      "address": "〒130-0002 東京都墨田区業平4-15-10 明本ビル1F",
+      "address_en": "1F Akimoto Building, 4-15-10 Gyohira, Sumida Ward, Tokyo 130-0002",
+      "lat": 35.7089,
+      "lng": 139.8133,
+      "genre": "ライブ・クラブ",
+      "source_url": "https://platinum-planet.com/",
+      "geocode_precision": "building",
+      "events": [
+        {
+          "title": "ライブハウス営業（詳細スケジュール確認要）",
+          "date": "2026-08-01",
+          "is_real": true,
+          "performers": [],
+          "source_url": "https://platinum-planet.com/",
+          "open_time": "13:00",
+          "start_time": "不明",
+          "price_advance": "¥30,000～",
+          "price_door": "不明",
+          "price_note": "1-2時間：¥30,000-60,000、年中無休"
+        }
+      ]
+    },
+    {
+      "name": "Live House rebirth",
+      "name_en": "Live House rebirth",
+      "address": "〒130-0022 東京都墨田区江東橋4-30-16 メンテック大塚ビル B1F",
+      "address_en": "B1F, Mentech Otsuka Building, 4-30-16 Kotobashi, Sumida Ward, Tokyo 130-0022",
+      "lat": 35.695011,
+      "lng": 139.817372,
+      "genre": "ロック・ポップス・インディーズ・バンド",
+      "source_url": "http://www.will-company.jp/rebirth/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "ライブハウス営業（詳細スケジュール確認要）",
+          "date": "2026-08-01",
+          "is_real": true,
+          "performers": [],
+          "source_url": "http://www.will-company.jp/rebirth/schedule/",
+          "open_time": "不明",
+          "start_time": "不明",
+          "price_advance": "不明",
+          "price_door": "不明",
+          "price_note": "別途ドリンク代¥600必要"
+        }
+      ]
     }
   ]
 }
