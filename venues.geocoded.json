@@ -7310,6 +7310,54 @@
           "price_note": "別途ドリンク代¥600必要"
         }
       ]
+    },
+    {
+      "name": "Spotify O-EAST",
+      "name_en": "Spotify O-EAST",
+      "address": "〒150-0043 東京都渋谷区道玄坂2丁目 (道玄坂二丁目8)",
+      "address_en": "Dogenzaka 2-chome, Shibuya-ku, Tokyo 150-0043",
+      "lat": 35.6586472,
+      "lng": 139.695517,
+      "genre": "ロック・ポップス・インディーズ",
+      "source_url": "https://shibuya-o.com/east/",
+      "geocode_precision": "building",
+      "events": [
+        {
+          "title": "Summer Sonic 2026 Extra(Kodaline 最終来日公演)",
+          "date": "2026-08-17",
+          "is_real": true,
+          "performers": [
+            "Kodaline"
+          ],
+          "open_time": "18:30",
+          "start_time": "19:30",
+          "source_url": "https://shibuya-o.com/east/"
+        }
+      ]
+    },
+    {
+      "name": "Shibuya LOVEZ",
+      "name_en": "Shibuya LOVEZ",
+      "address": "〒150-0042 東京都渋谷区宇田川町9-5",
+      "address_en": "9-5 Udagawa-cho, Shibuya-ku, Tokyo 150-0042",
+      "lat": 35.6620752,
+      "lng": 139.6974957,
+      "genre": "ロック・インディーズ",
+      "source_url": "https://kamattechan.com/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "神聖かまってちゃん Shibuya LOVEZ公演",
+          "date": "2026-08-20",
+          "is_real": true,
+          "performers": [
+            "神聖かまってちゃん"
+          ],
+          "open_time": "16:45",
+          "start_time": "17:00",
+          "source_url": "https://kamattechan.com/"
+        }
+      ]
     }
   ]
 }
