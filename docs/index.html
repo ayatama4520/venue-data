@@ -366,7 +366,7 @@ footer a:hover { color: var(--lime); }
   <div class="logo display">VENUE<span>TOKYO</span></div>
 </header>
 
-<section class="hero">
+<section class="hero" id="hero-section">
   <div class="glow-dot-wrap"><div class="glow-dot"></div></div>
   <h1 class="hero-title display reveal">東京の音楽イベントを<br><span class="accent">地図でひと目に。</span></h1>
   <p class="hero-sub reveal reveal-delay">「今夜ふと音楽を聞きたくなったけど、どこでイベントがあるかわからない」VENUE TOKYOは、そんな東京のナイトライフを楽しむ人の悩みを解決する新しい地図アプリです。(もちろんDAYイベントも対象です)</p>
@@ -426,7 +426,7 @@ footer a:hover { color: var(--lime); }
 
 </div>
 
-<a class="mag-fab" href="/mag/" onclick="gtag('event','mag_fab_click',{event_category:'engagement'});">
+<a class="mag-fab mag-fab--hidden" href="/mag/" onclick="gtag('event','mag_fab_click',{event_category:'engagement'});">
   <span class="mag-fab-text">
     <span class="mag-fab-title">VENUE MAG</span>
     <span class="mag-fab-sub">ライブ直前のアーティストの記事をチェック</span>
@@ -452,13 +452,27 @@ footer a:hover { color: var(--lime); }
 
   var magFab = document.querySelector('.mag-fab');
   var siteFooter = document.getElementById('site-footer');
-  if (magFab && siteFooter && 'IntersectionObserver' in window) {
-    var footerObserver = new IntersectionObserver(function (entries) {
-      entries.forEach(function (entry) {
-        magFab.classList.toggle('mag-fab--hidden', entry.isIntersecting);
-      });
-    }, { threshold: 0, rootMargin: '0px 0px -8px 0px' });
-    footerObserver.observe(siteFooter);
+  var heroSection = document.getElementById('hero-section');
+  if (magFab && 'IntersectionObserver' in window) {
+    var heroVisible = !!heroSection;
+    var footerVisible = false;
+    var updateMagFab = function () {
+      magFab.classList.toggle('mag-fab--hidden', heroVisible || footerVisible);
+    };
+    if (heroSection) {
+      new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) { heroVisible = entry.isIntersecting; });
+        updateMagFab();
+      }, { threshold: 0, rootMargin: '0px 0px -8px 0px' }).observe(heroSection);
+    }
+    if (siteFooter) {
+      new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) { footerVisible = entry.isIntersecting; });
+        updateMagFab();
+      }, { threshold: 0, rootMargin: '0px 0px -8px 0px' }).observe(siteFooter);
+    }
+  } else if (magFab) {
+    magFab.classList.remove('mag-fab--hidden');
   }
 </script>
 
