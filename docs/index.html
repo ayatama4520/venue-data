@@ -319,6 +319,12 @@ footer a:hover { color: var(--lime); }
   box-shadow: 0 10px 28px rgba(0,0,0,0.55);
   text-decoration: none !important;
   max-width: min(420px, calc(100vw - 32px));
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+.mag-fab.mag-fab--hidden {
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
 }
 .mag-fab:hover { border-color: rgba(213,255,63,0.4); }
 .mag-fab-text { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
@@ -413,7 +419,7 @@ footer a:hover { color: var(--lime); }
   <a class="cta reveal reveal-delay" href="https://docs.google.com/forms/d/e/1FAIpQLSd7YrdhPbKbLynG2E6uxHWnSGtY3BjFWYiPKqA8O09_qz06DA/viewform?usp=header" target="_blank" rel="noopener noreferrer" onclick="gtag('event','cta_click',{event_category:'engagement',event_label:'closing'});if(window.twq){twq('event','tw-rea1x-rea38',{});}">事前登録はこちら →</a>
 </section>
 
-<footer>
+<footer id="site-footer">
   <span>© 2026 VENUE TOKYO</span>
   <a href="https://ayatama4520.github.io/venue-data/privacy/" target="_blank" rel="noopener">プライバシーポリシー</a>
 </footer>
@@ -442,6 +448,17 @@ footer a:hover { color: var(--lime); }
       });
     }, { threshold: 0.2, rootMargin: '0px 0px -60px 0px' });
     revealTargets.forEach(function (el) { observer.observe(el); });
+  }
+
+  var magFab = document.querySelector('.mag-fab');
+  var siteFooter = document.getElementById('site-footer');
+  if (magFab && siteFooter && 'IntersectionObserver' in window) {
+    var footerObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        magFab.classList.toggle('mag-fab--hidden', entry.isIntersecting);
+      });
+    }, { threshold: 0, rootMargin: '0px 0px -8px 0px' });
+    footerObserver.observe(siteFooter);
   }
 </script>
 
