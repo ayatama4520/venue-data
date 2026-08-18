@@ -303,6 +303,51 @@ footer a:hover { color: var(--lime); }
   .feature p { margin-inline: auto; }
   .feature-shot { order: -1 !important; }
 }
+
+.mag-fab {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: var(--ink-raised);
+  border: 1px solid var(--hairline);
+  border-radius: 14px;
+  padding: 14px 16px 14px 18px;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.55);
+  text-decoration: none !important;
+  max-width: min(420px, calc(100vw - 32px));
+}
+.mag-fab:hover { border-color: rgba(213,255,63,0.4); }
+.mag-fab-text { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.mag-fab-title {
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--lime);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+.mag-fab-sub {
+  color: var(--text-dim);
+  font-size: 0.74rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mag-fab-chevron {
+  color: var(--lime);
+  font-size: 1.3rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+@media (max-width: 420px) {
+  .mag-fab { right: 12px; bottom: 12px; padding: 11px 13px 11px 15px; gap: 10px; }
+  .mag-fab-title { font-size: 0.88rem; }
+  .mag-fab-sub { font-size: 0.68rem; }
+}
 </style>
 </head>
 <body>
@@ -374,6 +419,14 @@ footer a:hover { color: var(--lime); }
 </footer>
 
 </div>
+
+<a class="mag-fab" href="/mag/" onclick="gtag('event','mag_fab_click',{event_category:'engagement'});">
+  <span class="mag-fab-text">
+    <span class="mag-fab-title">VENUE MAG</span>
+    <span class="mag-fab-sub">ライブ直前のアーティストの記事をチェック</span>
+  </span>
+  <span class="mag-fab-chevron">&#8250;</span>
+</a>
 
 <script>
   var revealTargets = document.querySelectorAll('.reveal');
