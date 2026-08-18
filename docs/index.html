@@ -366,7 +366,7 @@ footer a:hover { color: var(--lime); }
   <div class="logo display">VENUE<span>TOKYO</span></div>
 </header>
 
-<section class="hero" id="hero-section">
+<section class="hero">
   <div class="glow-dot-wrap"><div class="glow-dot"></div></div>
   <h1 class="hero-title display reveal">東京の音楽イベントを<br><span class="accent">地図でひと目に。</span></h1>
   <p class="hero-sub reveal reveal-delay">「今夜ふと音楽を聞きたくなったけど、どこでイベントがあるかわからない」VENUE TOKYOは、そんな東京のナイトライフを楽しむ人の悩みを解決する新しい地図アプリです。(もちろんDAYイベントも対象です)</p>
@@ -452,18 +452,20 @@ footer a:hover { color: var(--lime); }
 
   var magFab = document.querySelector('.mag-fab');
   var siteFooter = document.getElementById('site-footer');
-  var heroSection = document.getElementById('hero-section');
+  var heroCta = document.querySelector('.hero .cta');
   if (magFab && 'IntersectionObserver' in window) {
-    var heroVisible = !!heroSection;
+    var heroVisible = !!heroCta;
     var footerVisible = false;
     var updateMagFab = function () {
       magFab.classList.toggle('mag-fab--hidden', heroVisible || footerVisible);
     };
-    if (heroSection) {
+    if (heroCta) {
+      // ヒーローのCTAボタンが画面の下半分にある間はMAGボタンを隠し、
+      // 画面中央より上へスクロールされた時点で表示に切り替える
       new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) { heroVisible = entry.isIntersecting; });
         updateMagFab();
-      }, { threshold: 0, rootMargin: '0px 0px -8px 0px' }).observe(heroSection);
+      }, { threshold: 0, rootMargin: '-50% 0px 0px 0px' }).observe(heroCta);
     }
     if (siteFooter) {
       new IntersectionObserver(function (entries) {
