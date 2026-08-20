@@ -6701,6 +6701,20 @@
           "start_time": "18:30",
           "price_note": "スタンディング ¥6,000",
           "detail_page_url": "https://www.zepp.co.jp/hall/shinjuku/schedule/single/?rid=158955"
+        },
+        {
+          "title": "Dos Monos Oneman Live",
+          "date": "2026-08-21",
+          "is_real": true,
+          "performers": [
+            "Dos Monos"
+          ],
+          "open_time": "18:00",
+          "start_time": "19:00",
+          "price_advance": "早割¥5,000/U23¥4,500/一般¥6,000",
+          "price_note": "各+1Drink代別途",
+          "source_url": "https://spincoaster.com/news/dos-monos-oneman-live-zepp-shinjuku",
+          "detail_page_url": "https://spincoaster.com/news/dos-monos-oneman-live-zepp-shinjuku"
         }
       ],
       "geocode_precision": "venue_name"
