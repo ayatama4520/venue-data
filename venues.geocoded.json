@@ -3323,6 +3323,38 @@
           "source_url": "https://backpackersjapan.co.jp/citan/events",
           "start_time": "20:00",
           "detail_page_url": "https://backpackersjapan.co.jp/citan/music/%e3%81%a9%e3%81%84%e3%81%a1%e3%82%83%e3%82%93%e5%85%83om-chan-tone-o-zi"
+        },
+        {
+          "title": "DJ KAWASAKI / TAICHI ISOZAKI",
+          "date": "2026-08-21",
+          "is_real": true,
+          "performers": [
+            "DJ KAWASAKI",
+            "TAICHI ISOZAKI"
+          ],
+          "start_time": "20:00",
+          "source_url": "https://backpackersjapan.co.jp/citan/events"
+        },
+        {
+          "title": "sea",
+          "date": "2026-08-22",
+          "is_real": true,
+          "performers": [
+            "sea"
+          ],
+          "start_time": "20:00",
+          "source_url": "https://backpackersjapan.co.jp/citan/events"
+        },
+        {
+          "title": "HAPPFAT / Summer Eye",
+          "date": "2026-08-28",
+          "is_real": true,
+          "performers": [
+            "HAPPFAT",
+            "Summer Eye"
+          ],
+          "start_time": "20:00",
+          "source_url": "https://backpackersjapan.co.jp/citan/events"
         }
       ],
       "geocode_precision": "venue_name"
