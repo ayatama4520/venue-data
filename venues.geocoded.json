@@ -7358,6 +7358,82 @@
           "source_url": "https://kamattechan.com/"
         }
       ]
+    },
+    {
+      "name": "VENT",
+      "name_en": "VENT",
+      "address": "〒107-0062 東京都港区南青山3-18-19 フェスタ表参道ビルB1F",
+      "address_en": "B1F Festa Omotesando Bldg, 3-18-19 Minamiaoyama, Minato-ku, Tokyo 107-0062",
+      "lat": 35.6665612,
+      "lng": 139.7155917,
+      "genre": "ハウス・テクノ",
+      "source_url": "https://vent-tokyo.net/",
+      "geocode_precision": "town_level_address",
+      "events": []
+    },
+    {
+      "name": "青山蜂",
+      "name_en": "AOYAMA HACHI",
+      "address": "〒150-0002 東京都渋谷区渋谷4-5-9 青山ビルディング2F-4F",
+      "address_en": "2F-4F Aoyama Bldg, 4-5-9 Shibuya, Shibuya-ku, Tokyo 150-0002",
+      "lat": 35.6601838,
+      "lng": 139.7113055,
+      "genre": "ハウス・テクノ・ヒップホップ・ジャズ",
+      "source_url": "http://aoyama-hachi.net/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "WEEKDAY",
+          "date": "2026-08-27",
+          "is_real": true,
+          "performers": [],
+          "open_time": "19:30",
+          "price_note": "チャージ¥1,000",
+          "source_url": "http://aoyama-hachi.net/"
+        },
+        {
+          "title": "Jazz n'Bass Drum'n'Bass",
+          "date": "2026-08-28",
+          "is_real": true,
+          "performers": [],
+          "open_time": "19:00",
+          "price_note": "ドア¥2,000",
+          "source_url": "http://aoyama-hachi.net/"
+        },
+        {
+          "title": "DANCING BUILDING",
+          "date": "2026-09-01",
+          "is_real": true,
+          "performers": [],
+          "open_time": "19:00",
+          "price_note": "ドア¥1,500",
+          "source_url": "http://aoyama-hachi.net/"
+        }
+      ]
+    },
+    {
+      "name": "RED BAR",
+      "name_en": "RED BAR",
+      "address": "〒150-0002 東京都渋谷区渋谷4-5-9 青山ビルディング1F",
+      "address_en": "1F Aoyama Bldg, 4-5-9 Shibuya, Shibuya-ku, Tokyo 150-0002",
+      "lat": 35.6601838,
+      "lng": 139.7113055,
+      "genre": "ハウス・ヒップホップ",
+      "source_url": "https://redbar-tokyo.com/",
+      "geocode_precision": "town_level_address",
+      "events": []
+    },
+    {
+      "name": "ENJOY↑HOUSE",
+      "name_en": "ENJOY HOUSE",
+      "address": "〒150-0021 東京都渋谷区恵比寿西2-9-9 Crystal Square Daikanyama 2F",
+      "address_en": "2F Crystal Square Daikanyama, 2-9-9 Ebisunishi, Shibuya-ku, Tokyo 150-0021",
+      "lat": 35.650139,
+      "lng": 139.707085,
+      "genre": "ハウス・テクノ・ヒップホップ・ロック",
+      "source_url": "https://enjoyhouse.jugem.jp/",
+      "geocode_precision": "town_level_address",
+      "events": []
     }
   ]
 }
