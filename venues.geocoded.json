@@ -1927,6 +1927,20 @@
           "open_time": "15:30",
           "start_time": "17:00",
           "detail_page_url": "https://www-shibuya.jp/schedule/019872.php"
+        },
+        {
+          "title": "MADEON SPECIAL DJ SET IN TOKYO",
+          "date": "2026-08-29",
+          "is_real": true,
+          "performers": [
+            "Madeon"
+          ],
+          "open_time": "24:00",
+          "start_time": "24:00",
+          "price_advance": "¥9,900",
+          "price_note": "税込/All Standing/1Drink別、WWW X、20歳未満入場不可",
+          "source_url": "https://www.creativeman.co.jp/event/madeon26/",
+          "detail_page_url": "https://www.creativeman.co.jp/event/madeon26/"
         }
       ],
       "geocode_precision": "town_level_address"
