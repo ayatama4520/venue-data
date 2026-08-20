@@ -3274,32 +3274,6 @@
       "source_url": "https://backpackersjapan.co.jp/citan/",
       "events": [
         {
-          "title": "CITAN TAIWAN DAY",
-          "date": "2026-08-29",
-          "performers": [
-            "International DJs"
-          ],
-          "is_real": true,
-          "source_url": "https://backpackersjapan.co.jp/citan/archives/5968",
-          "open_time": "18:00",
-          "start_time": "18:00",
-          "price_note": "入場無料",
-          "detail_page_url": "https://backpackersjapan.co.jp/citan/archives/5968"
-        },
-        {
-          "title": "CITAN TAIWAN DAY",
-          "date": "2026-08-30",
-          "performers": [
-            "International DJs"
-          ],
-          "is_real": true,
-          "source_url": "https://backpackersjapan.co.jp/citan/archives/5968",
-          "open_time": "18:00",
-          "start_time": "18:00",
-          "price_note": "入場無料",
-          "detail_page_url": "https://backpackersjapan.co.jp/citan/archives/5968"
-        },
-        {
           "title": "YOSHIHIRO OKINO(kyoto jazz massive/especial records) / DJ KAWASAKI / Kobatrench",
           "date": "2026-07-31",
           "performers": [
@@ -3355,6 +3329,19 @@
           ],
           "start_time": "20:00",
           "source_url": "https://backpackersjapan.co.jp/citan/events"
+        },
+        {
+          "title": "Smile Virrage & Yoshie Nakamura New Orleans Special Quartet",
+          "date": "2026-08-29",
+          "is_real": true,
+          "performers": [
+            "中村好江(Trumpet)",
+            "後藤雅広(Clarinet)",
+            "佐久間和(Guitar)",
+            "小林真人(Bass)"
+          ],
+          "source_url": "https://backpackersjapan.co.jp/citan/events",
+          "detail_page_url": "https://backpackersjapan.co.jp/citan/music/smile-virrage-yoshie-nakamura-new-orleans-special-quartet"
         }
       ],
       "geocode_precision": "venue_name"
