@@ -175,6 +175,29 @@ article.post .event-info .cta {
   text-decoration: none;
 }
 article.post .event-info .cta:hover { transform: translateY(-1px); }
+article.post .footer-nav {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid var(--hairline);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+article.post .footer-nav a {
+  display: block;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.98rem;
+}
+article.post .footer-nav a:hover { color: var(--lime); }
+article.post .footer-nav .label {
+  display: block;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -221,6 +244,39 @@ footer.site {
   <dl><div><dt>日程</dt><dd>2026年8月17日(月)</dd></div><div><dt>会場</dt><dd>Spotify O-EAST(渋谷)</dd></div><div><dt>時間</dt><dd>開場18:30 / 開演19:30</dd></div></dl>
   <a class="cta" href="https://apps.apple.com/jp/app/venue-tokyo/id6800798843" target="_blank" rel="noopener">VENUE TOKYOで今夜のイベントを探す →</a>
 </div>
+
+<div class="footer-nav">
+  <a href="/mag/">
+    <span class="label">VENUE MAG</span>
+    記事一覧へ →
+  </a>
+  <a href="/mag/" id="latest-article-link">
+    <span class="label">最新の記事</span>
+    <span class="footer-nav-title">新着記事を見る →</span>
+  </a>
+</div>
+<script>
+(function () {
+  var el = document.getElementById('latest-article-link');
+  if (!el) return;
+  fetch('/mag/').then(function (r) { return r.text(); }).then(function (html) {
+    var doc = new DOMParser().parseFromString(html, 'text/html');
+    var cards = doc.querySelectorAll('.grid .card');
+    if (!cards.length) return;
+    var current = location.pathname.split('/').pop();
+    var target = null;
+    for (var i = cards.length - 1; i >= 0; i--) {
+      var href = cards[i].getAttribute('href') || '';
+      if (href.indexOf(current) === -1) { target = cards[i]; break; }
+    }
+    if (!target) return;
+    var h2 = target.querySelector('h2');
+    el.setAttribute('href', target.getAttribute('href'));
+    var titleEl = el.querySelector('.footer-nav-title');
+    if (titleEl && h2) titleEl.textContent = h2.textContent + ' →';
+  }).catch(function () {});
+})();
+</script>
 </article>
 
 </div>
