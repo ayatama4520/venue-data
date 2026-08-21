@@ -140,6 +140,41 @@ article.post .sources h3 {
 }
 article.post .sources ol { margin: 0; padding-left: 1.2em; }
 article.post .sources li { margin-bottom: 6px; }
+article.post .event-info {
+  margin-top: 40px;
+  padding: 24px clamp(20px, 5vw, 28px);
+  border: 1px solid rgba(213,255,63,0.35);
+  border-radius: 16px;
+  background: rgba(213,255,63,0.05);
+}
+article.post .event-info h3 {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--lime);
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+article.post .event-info dl {
+  margin: 0 0 22px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 18px;
+}
+article.post .event-info dt { color: var(--text-dim); font-size: 0.82rem; }
+article.post .event-info dd { margin: 0; color: var(--text); font-size: 0.92rem; }
+article.post .event-info .cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--lime);
+  color: #0a0a0a;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+}
+article.post .event-info .cta:hover { transform: translateY(-1px); }
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -179,6 +214,12 @@ footer.site {
 <div class="sources">
   <h3>出典</h3>
   <ol><li><a href="https://rockinon.com/interview/detail/211356" target="_blank" rel="noopener">ROCKIN'ON JAPAN「神聖かまってちゃん『団地テーゼ』インタビュー」2025年1月15日</a></li></ol>
+</div>
+
+<div class="event-info">
+  <h3>この記事のイベント情報</h3>
+  <dl><div><dt>日程</dt><dd>2026年8月20日(木)</dd></div><div><dt>会場</dt><dd>Shibuya LOVEZ(渋谷)</dd></div><div><dt>時間</dt><dd>開場16:45 / 開演17:00</dd></div></dl>
+  <a class="cta" href="https://apps.apple.com/jp/app/venue-tokyo/id6800798843" target="_blank" rel="noopener">VENUE TOKYOで今夜のイベントを探す →</a>
 </div>
 </article>
 

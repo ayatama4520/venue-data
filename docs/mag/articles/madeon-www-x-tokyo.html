@@ -140,6 +140,41 @@ article.post .sources h3 {
 }
 article.post .sources ol { margin: 0; padding-left: 1.2em; }
 article.post .sources li { margin-bottom: 6px; }
+article.post .event-info {
+  margin-top: 40px;
+  padding: 24px clamp(20px, 5vw, 28px);
+  border: 1px solid rgba(213,255,63,0.35);
+  border-radius: 16px;
+  background: rgba(213,255,63,0.05);
+}
+article.post .event-info h3 {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--lime);
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+article.post .event-info dl {
+  margin: 0 0 22px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 18px;
+}
+article.post .event-info dt { color: var(--text-dim); font-size: 0.82rem; }
+article.post .event-info dd { margin: 0; color: var(--text); font-size: 0.92rem; }
+article.post .event-info .cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--lime);
+  color: #0a0a0a;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+}
+article.post .event-info .cta:hover { transform: translateY(-1px); }
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -179,6 +214,12 @@ footer.site {
 <div class="sources">
   <h3>出典</h3>
   <ol><li><a href="https://www.creativeman.co.jp/event/madeon26/" target="_blank" rel="noopener">公演詳細(CREATIVEMAN)</a></li><li><a href="https://dancingastronaut.com/2026/07/madeon-embraces-creative-risk-on-victory-the-one-sin-of-an-artist-is-to-be-boring/" target="_blank" rel="noopener">Dancing Astronaut「Madeon Embraces Creative Risk On 'Victory': "The One Sin Of An Artist Is To Be Boring"」Liana Stern、2026年7月1日</a></li></ol>
+</div>
+
+<div class="event-info">
+  <h3>この記事のイベント情報</h3>
+  <dl><div><dt>日程</dt><dd>2026年8月29日(土)</dd></div><div><dt>会場</dt><dd>渋谷WWW X</dd></div><div><dt>時間</dt><dd>開場・開演 24:00</dd></div><div><dt>料金</dt><dd>¥9,900(税込/All Standing/1Drink別)</dd></div></dl>
+  <a class="cta" href="https://apps.apple.com/jp/app/venue-tokyo/id6800798843" target="_blank" rel="noopener">VENUE TOKYOで今夜のイベントを探す →</a>
 </div>
 </article>
 

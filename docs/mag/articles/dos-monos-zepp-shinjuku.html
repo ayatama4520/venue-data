@@ -140,6 +140,41 @@ article.post .sources h3 {
 }
 article.post .sources ol { margin: 0; padding-left: 1.2em; }
 article.post .sources li { margin-bottom: 6px; }
+article.post .event-info {
+  margin-top: 40px;
+  padding: 24px clamp(20px, 5vw, 28px);
+  border: 1px solid rgba(213,255,63,0.35);
+  border-radius: 16px;
+  background: rgba(213,255,63,0.05);
+}
+article.post .event-info h3 {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--lime);
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+article.post .event-info dl {
+  margin: 0 0 22px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 18px;
+}
+article.post .event-info dt { color: var(--text-dim); font-size: 0.82rem; }
+article.post .event-info dd { margin: 0; color: var(--text); font-size: 0.92rem; }
+article.post .event-info .cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--lime);
+  color: #0a0a0a;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+}
+article.post .event-info .cta:hover { transform: translateY(-1px); }
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -179,6 +214,12 @@ footer.site {
 <div class="sources">
   <h3>出典</h3>
   <ol><li><a href="https://spincoaster.com/news/dos-monos-oneman-live-zepp-shinjuku" target="_blank" rel="noopener">公演詳細(Spincoaster)</a></li><li><a href="https://www.cinra.net/news/20180522-dosmonos" target="_blank" rel="noopener">Dos MonosとDeathbomb Arcの契約に関する記事(CINRA.NET)、2018年5月</a></li><li><a href="https://neutmagazine.com/interview-dos-monos" target="_blank" rel="noopener">NEUT Magazine インタビュー記事、著者:Shiori Kirigaya、2018年8月10日公開</a></li><li><a href="https://tokion.jp/en/2021/12/28/interview-dos-monos-2021-part2/" target="_blank" rel="noopener">tokion.jp インタビュー記事、著者:Tsuya chan、2021年12月28日公開</a></li></ol>
+</div>
+
+<div class="event-info">
+  <h3>この記事のイベント情報</h3>
+  <dl><div><dt>日程</dt><dd>2026年8月21日(金)</dd></div><div><dt>会場</dt><dd>Zepp Shinjuku(新宿)</dd></div><div><dt>時間</dt><dd>開場18:00 / 開演19:00</dd></div><div><dt>料金</dt><dd>早割¥5,000 / U23¥4,500 / 一般¥6,000(各+1D)</dd></div></dl>
+  <a class="cta" href="https://apps.apple.com/jp/app/venue-tokyo/id6800798843" target="_blank" rel="noopener">VENUE TOKYOで今夜のイベントを探す →</a>
 </div>
 </article>
 

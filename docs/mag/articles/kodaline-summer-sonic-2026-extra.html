@@ -140,6 +140,41 @@ article.post .sources h3 {
 }
 article.post .sources ol { margin: 0; padding-left: 1.2em; }
 article.post .sources li { margin-bottom: 6px; }
+article.post .event-info {
+  margin-top: 40px;
+  padding: 24px clamp(20px, 5vw, 28px);
+  border: 1px solid rgba(213,255,63,0.35);
+  border-radius: 16px;
+  background: rgba(213,255,63,0.05);
+}
+article.post .event-info h3 {
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--lime);
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+article.post .event-info dl {
+  margin: 0 0 22px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 18px;
+}
+article.post .event-info dt { color: var(--text-dim); font-size: 0.82rem; }
+article.post .event-info dd { margin: 0; color: var(--text); font-size: 0.92rem; }
+article.post .event-info .cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--lime);
+  color: #0a0a0a;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 12px 24px;
+  border-radius: 999px;
+  text-decoration: none;
+}
+article.post .event-info .cta:hover { transform: translateY(-1px); }
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -174,11 +209,17 @@ footer.site {
   <span class="tag">オルタナティブ・ロック</span>
   <h1 class="display">最後の来日で聴く「素直さ」——Kodaline、解散前ラストランのSummer Sonic Extra公演</h1>
   <div class="meta">2026-08-17 公開 ・ Spotify O-EAST(渋谷)</div>
-  <div class="body"><p>2026年8月17日、渋谷道玄坂のSpotify O-EASTに立つKodalineは、もうこれが最後の東京公演になる。2025年10月に解散を発表したこのアイルランド・ダブリン出身の4人組は、今年に入ってから世界各地でフェアウェルツアーを続けており、Summer Sonic 2026 Extraとして組まれる今回のステージも、その一環だ。開場18:30、開演19:30という時間設定は、いつも通りに見えて、いつも通りではない一夜になる。</p><p>結成は2011年。Steve Garrigan(ボーカル/ギター/ピアノ)、Mark Prendergast(リードギター)、Jason Boland(ベース)、Vincent May(ドラム)という編成は、デビュー当初からほとんど変わっていない。2012年の『The Kodaline EP』でシーンに登場すると、翌年にはシングル「All I Want」がBBCの新人発掘企画「Sound of 2013」にノミネートされ、続く「High Hopes」はアイリッシュ・チャートで1位を獲得。2013年発表の1stアルバム『In a Perfect World』で、彼らは一気にアイルランド発の新世代ロックバンドとして名を上げた。</p><p>面白いのは、「All I Want」がリリースから年月を経た近年、TikTok上で再燃したことだ。切なさと祈りにも似た高揚感を同居させたこの曲は、1.3億回を超えるストリーミング再生数を記録し、ストリーミング時代における「発見のされ方」を象徴する一曲になった。デビュー当初から聴いてきたファンと、TikTok経由でこの曲にたどり着いた新しいリスナーが同じ会場に集う——そんな観客席の光景も、今夜は想像に難くない。</p><p>彼らの音楽の核にあるのは、大仰な意匠を排した「素直さ」だ。2013年のインタビューでメンバーは、幼少期からの友人であり、教会の聖歌隊で共に歌っていた過去を明かしている。音楽的な出発点として挙げるのは、Bruce Springsteen、Billy Joel、Jackson Browneといった、生活者の視点で歌詞を紡ぐシンガーソングライター/バンド勢だ。</p><p>この姿勢は、10年以上を経た楽曲にも一貫している。壮大なコーラスワークやピアノの旋律で聴き手を高揚させながらも、歌われているのはあくまで等身大の喜びや痛みだ。派手な仕掛けよりも、感情のディテールを丁寧に描くことに重きを置いてきたバンドだった、と言い換えてもいい。</p><p>解散を発表したバンドのラストツアーというのは、多くの場合、感傷だけで語られがちだ。だがKodalineの場合、それ以上に「なぜこのバンドが10年以上にわたり支持され続けたのか」を再確認する場になるはずだ。デビュー曲から最新曲まで、彼らが一貫して歌ってきたのは特別な誰かの物語ではなく、聴き手自身の生活の手触りだった。だからこそ、初めてこのバンドを知った観客にとっても、最後の一夜は決して他人事にはならない。</p><p>今回のSpotify O-EASTでの公演は、解散を控えたバンドから日本のファンへの最後の挨拶になる。長年「All I Want」や「High Hopes」を聴いてきたリスナーはもちろん、TikTokで彼らを知ったばかりの世代にとっても、この夜は特別な記録になるはずだ。夜の渋谷で、ダブリン出身の4人が鳴らす最後の音を確かめに行く価値は十分にある。</p><blockquote>“僕たちの音楽は日々の生活、毎日の感情や出来事を正直に歌っているだけなんだ。”<span class="cite">— Mark Prendergast、Skream!「Kodalineインタビュー」2013年6月</span></blockquote></div>
+  <div class="body"><p>2026年8月17日、渋谷道玄坂のSpotify O-EASTに立つKodalineは、もうこれが最後の東京公演になる。2025年10月に解散を発表したこのアイルランド・ダブリン出身の4人組は、今年に入ってから世界各地でフェアウェルツアーを続けており、Summer Sonic 2026 Extraとして組まれる今回のステージも、その一環だ。</p><p>結成は2011年。Steve Garrigan(ボーカル/ギター/ピアノ)、Mark Prendergast(リードギター)、Jason Boland(ベース)、Vincent May(ドラム)という編成は、デビュー当初からほとんど変わっていない。2012年の『The Kodaline EP』でシーンに登場すると、翌年にはシングル「All I Want」がBBCの新人発掘企画「Sound of 2013」にノミネートされ、続く「High Hopes」はアイリッシュ・チャートで1位を獲得。2013年発表の1stアルバム『In a Perfect World』で、彼らは一気にアイルランド発の新世代ロックバンドとして名を上げた。</p><p>面白いのは、「All I Want」がリリースから年月を経た近年、TikTok上で再燃したことだ。切なさと祈りにも似た高揚感を同居させたこの曲は、1.3億回を超えるストリーミング再生数を記録し、ストリーミング時代における「発見のされ方」を象徴する一曲になった。デビュー当初から聴いてきたファンと、TikTok経由でこの曲にたどり着いた新しいリスナーが同じ会場に集う——そんな観客席の光景も、今夜は想像に難くない。</p><p>彼らの音楽の核にあるのは、大仰な意匠を排した「素直さ」だ。2013年のインタビューでメンバーは、幼少期からの友人であり、教会の聖歌隊で共に歌っていた過去を明かしている。音楽的な出発点として挙げるのは、Bruce Springsteen、Billy Joel、Jackson Browneといった、生活者の視点で歌詞を紡ぐシンガーソングライター/バンド勢だ。</p><p>この姿勢は、10年以上を経た楽曲にも一貫している。壮大なコーラスワークやピアノの旋律で聴き手を高揚させながらも、歌われているのはあくまで等身大の喜びや痛みだ。派手な仕掛けよりも、感情のディテールを丁寧に描くことに重きを置いてきたバンドだった、と言い換えてもいい。</p><p>解散を発表したバンドのラストツアーというのは、多くの場合、感傷だけで語られがちだ。だがKodalineの場合、それ以上に「なぜこのバンドが10年以上にわたり支持され続けたのか」を再確認する場になるはずだ。デビュー曲から最新曲まで、彼らが一貫して歌ってきたのは特別な誰かの物語ではなく、聴き手自身の生活の手触りだった。だからこそ、初めてこのバンドを知った観客にとっても、最後の一夜は決して他人事にはならない。</p><p>今回のSpotify O-EASTでの公演は、解散を控えたバンドから日本のファンへの最後の挨拶になる。長年「All I Want」や「High Hopes」を聴いてきたリスナーはもちろん、TikTokで彼らを知ったばかりの世代にとっても、この夜は特別な記録になるはずだ。夜の渋谷で、ダブリン出身の4人が鳴らす最後の音を確かめに行く価値は十分にある。</p><blockquote>“僕たちの音楽は日々の生活、毎日の感情や出来事を正直に歌っているだけなんだ。”<span class="cite">— Mark Prendergast、Skream!「Kodalineインタビュー」2013年6月</span></blockquote></div>
   
 <div class="sources">
   <h3>出典</h3>
   <ol><li><a href="https://skream.jp/interview/2013/06/kodaline.php" target="_blank" rel="noopener">Skream!「Kodalineインタビュー」2013年6月</a></li></ol>
+</div>
+
+<div class="event-info">
+  <h3>この記事のイベント情報</h3>
+  <dl><div><dt>日程</dt><dd>2026年8月17日(月)</dd></div><div><dt>会場</dt><dd>Spotify O-EAST(渋谷)</dd></div><div><dt>時間</dt><dd>開場18:30 / 開演19:30</dd></div></dl>
+  <a class="cta" href="https://apps.apple.com/jp/app/venue-tokyo/id6800798843" target="_blank" rel="noopener">VENUE TOKYOで今夜のイベントを探す →</a>
 </div>
 </article>
 
