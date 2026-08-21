@@ -62,7 +62,21 @@ header.site .magtag {
   border-radius: 999px;
   font-weight: 700;
 }
-header.site nav { margin-left: auto; font-size: 0.85rem; color: var(--text-dim); }
+header.site nav { margin-left: auto; }
+header.site nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--lime);
+  color: #0a0a0a;
+  font-weight: 700;
+  font-size: 0.8rem;
+  padding: 9px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+}
+header.site nav a:hover { transform: translateY(-1px); text-decoration: none; }
 
 .hero-mag { padding: clamp(40px, 8vw, 72px) 0 clamp(24px, 5vw, 40px); }
 .hero-mag h1 { font-size: clamp(2rem, 6vw, 2.8rem); margin: 0 0 10px; }
