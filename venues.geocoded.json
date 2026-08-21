@@ -7481,6 +7481,70 @@
       "source_url": "https://enjoyhouse.jugem.jp/",
       "geocode_precision": "town_level_address",
       "events": []
+    },
+    {
+      "name": "SALOON",
+      "name_en": "SALOON",
+      "address": "〒150-0021 東京都渋谷区恵比寿西1-34-17 Za HOUSEビルB3F",
+      "address_en": "B3F Za HOUSE Bldg, 1-34-17 Ebisunishi, Shibuya-ku, Tokyo 150-0021",
+      "lat": 35.6477196,
+      "lng": 139.7061852,
+      "genre": "DJ・クラブ",
+      "source_url": "https://www.saloon-tokyo.com/",
+      "geocode_precision": "town_level_address",
+      "events": [
+        {
+          "title": "40℃",
+          "date": "2026-08-21",
+          "is_real": true,
+          "performers": [],
+          "open_time": "22:00",
+          "price_advance": "¥3,000",
+          "source_url": "https://www.saloon-tokyo.com/",
+          "detail_page_url": "https://www.saloon-tokyo.com/"
+        },
+        {
+          "title": "LUCID SKIN 1st Anniversary",
+          "date": "2026-08-22",
+          "is_real": true,
+          "performers": [],
+          "open_time": "23:00",
+          "price_advance": "¥2,000",
+          "price_door": "¥2,500",
+          "source_url": "https://www.saloon-tokyo.com/",
+          "detail_page_url": "https://www.saloon-tokyo.com/"
+        },
+        {
+          "title": "suede.i.d.",
+          "date": "2026-08-27",
+          "is_real": true,
+          "performers": [],
+          "open_time": "21:00",
+          "price_advance": "¥2,000",
+          "source_url": "https://www.saloon-tokyo.com/",
+          "detail_page_url": "https://www.saloon-tokyo.com/"
+        },
+        {
+          "title": "HORN\" Vol.1 GYW BAY DAGR. \"AWAI\" Release Party",
+          "date": "2026-08-29",
+          "is_real": true,
+          "performers": [],
+          "open_time": "23:00",
+          "price_advance": "¥2,000",
+          "source_url": "https://www.saloon-tokyo.com/",
+          "detail_page_url": "https://www.saloon-tokyo.com/"
+        },
+        {
+          "title": "MONOGATARI 003",
+          "date": "2026-09-03",
+          "is_real": true,
+          "performers": [],
+          "open_time": "22:00",
+          "price_advance": "¥2,000",
+          "source_url": "https://www.saloon-tokyo.com/",
+          "detail_page_url": "https://www.saloon-tokyo.com/"
+        }
+      ]
     }
   ]
 }
