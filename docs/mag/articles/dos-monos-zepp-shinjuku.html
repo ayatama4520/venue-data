@@ -181,23 +181,34 @@ article.post .footer-nav {
   border-top: 1px solid var(--hairline);
   display: flex;
   flex-direction: column;
-  gap: 18px;
+  gap: 14px;
 }
 article.post .footer-nav a {
   display: block;
-  color: var(--text);
   text-decoration: none;
-  font-size: 0.98rem;
+  border-radius: 14px;
+  padding: 18px 22px;
+  transition: transform 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
-article.post .footer-nav a:hover { color: var(--lime); }
+article.post .footer-nav a:hover { transform: translateY(-1px); }
 article.post .footer-nav .label {
   display: block;
   font-size: 0.7rem;
   letter-spacing: 0.08em;
-  color: var(--text-dim);
   text-transform: uppercase;
-  margin-bottom: 5px;
+  margin-bottom: 6px;
 }
+article.post .footer-nav a.primary { background: var(--lime); color: #0a0a0a; }
+article.post .footer-nav a.primary .label { color: rgba(10,10,10,0.6); }
+article.post .footer-nav a.primary .footer-nav-title { font-weight: 700; font-size: 1.02rem; }
+article.post .footer-nav a.secondary {
+  background: transparent;
+  border: 1px solid var(--hairline);
+  color: var(--text);
+  font-size: 0.95rem;
+}
+article.post .footer-nav a.secondary .label { color: var(--text-dim); }
+article.post .footer-nav a.secondary:hover { border-color: rgba(213,255,63,0.4); color: var(--lime); }
 .back-link { display: inline-block; margin-bottom: 20px; font-size: 0.85rem; color: var(--text-dim); }
 
 footer.site {
@@ -246,13 +257,13 @@ footer.site {
 </div>
 
 <div class="footer-nav">
-  <a href="/mag/">
-    <span class="label">VENUE MAG</span>
-    記事一覧へ →
-  </a>
-  <a href="/mag/" id="latest-article-link">
+  <a href="/mag/" id="latest-article-link" class="primary">
     <span class="label">最新の記事</span>
     <span class="footer-nav-title">新着記事を見る →</span>
+  </a>
+  <a href="/mag/" class="secondary">
+    <span class="label">VENUE MAG</span>
+    記事一覧へ →
   </a>
 </div>
 <script>
